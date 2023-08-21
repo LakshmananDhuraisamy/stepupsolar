@@ -1,0 +1,5373 @@
+/* Media Queries  */
+ @media screen and (max-width: 1440px){
+    .navbar-section {
+        height: 970px;
+    }
+    .navbar {
+        padding: 20px 30px;
+    }
+    .navbar-brand img {
+        height: 115px;
+    }
+    .navbar-nav li {
+        margin: 0 12px;
+    }
+    .navbar-nav li:last-child {
+        margin-left: 0;
+    }
+    .navbar-expand-lg .navbar-nav a:last-child {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .read_me_btn {
+        padding: 12px;
+        width: 200px;
+    }
+    .read_me_btn:hover {
+        padding: 12px;
+        width: 200px;
+    }
+    .left_icons {
+        height: 460px;
+        margin-left: 85px;
+    }
+    .banner-section {
+        padding: 50px 0 0 45px;
+    }
+    .banner-section .col-lg-8.col-md-12.col-sm-12 {
+        margin-left: 45px;
+    }
+    h1 {
+        font-size: 62px;
+        line-height: 65px;
+    }
+    h5 {
+        margin-bottom: 28px;
+        line-height: 32px;
+    }
+    .btn_wrapper a {
+        margin-right: 12px;
+    }
+    .offer_btn {
+        padding: 16px;
+    }
+    .learn_btn {
+        padding: 15px 25px;
+    }
+    .services_provide {
+        margin-top: -290px;
+    }
+    .services_provider_content .upper_portion img{
+        width: 100%;
+    }
+    .lower_portion_wrapper {
+        padding: 34px 40px;
+    }
+    .lower_portion .resi_solar {
+        padding: 0px;
+    }
+    .learn_more_wrapper {
+        padding: 0px;
+    }
+    .lower_portion_wrapper_residentialsolar {
+        padding: 34px 42px;
+    }
+    .learn_more_wrapper_resi_solar {
+        padding: 0px;
+    }
+    .services_provide .shape {
+        top: -80px;
+        right: -16px;
+    }
+    .about_us {
+        padding: 110px 0 150px 0;
+    }
+    .aboutus_image img {
+        width: 100%;
+    }
+    .about_us .box {
+        padding: 18px 10px 22px;
+        margin-right: 18px;
+    }
+    .about_us .yellow_box {
+        padding: 35px 20px;
+        left: 10%;
+    }
+    .aboutus_content {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .recent_projects {
+        background-size: contain;
+    }
+    .project_icon_wrapper {
+        margin-top: -52px;
+        margin-left: 575px;
+    }
+    .project_icon_wrapper_hybrid {
+        margin-top: -52px;
+        margin-left: 240px;
+    }
+    .recent_projects .shape {
+        top: -80px;
+        left: -16px;
+    }
+    .make_an_appointment {
+        padding: 110px 0;
+    }
+    .company_stats_content h6 {
+        margin-top: 0;
+    }
+    .company_statistics .shape {
+        top: -80px;
+        right: -16px;
+    }
+    .team_members_content .upper_portion img{
+        width: 100%;
+    }
+    .socialmedia_icons_wrapper i {
+        padding: 9px;
+        font-size: 20px;
+        line-height: 20px;
+        height: 38px;
+    }
+    .team_members .shape {
+        top: -80px;
+        left: -16px;
+    }
+    .testimonials_content .testimonial_paragraph {
+        padding: 10px 30px 40px;
+    }
+    .testimonials_content .apostrophy {
+        margin-top: 0px;
+        margin-left: -20px;
+    }
+    .our_testimonials .shape {
+        top: -50px;
+        right: -25px;
+    }
+    .our_testimonials .owl-carousel .owl-nav {
+        margin-top: 35px;
+    }
+    .our_articles {
+        overflow: hidden;
+    }
+    .articles_content .upper_portion .article_img {
+        width: 100%;
+    }
+    .articles_content .lower_portion_wrapper {
+        padding: 45px 20px 45px;
+    }
+    .articles_content .learn_more_wrapper {
+        padding: 0px;
+    }
+    .our_articles .shape {
+        top: -80px;
+        left: -16px;
+    }
+    .send_message {
+        overflow: hidden;
+    }
+    .send_message_content {
+        padding: 70px 65px;
+    }
+    .footer-section {
+        margin-top: -160px;
+        overflow: hidden;
+        padding: 210px 0 0px;
+    }
+    .footer-section .middle-portion {
+        padding: 0;
+    }
+    .footer_logo figure {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+    .footer_logo img{
+        height: 200px;
+    }
+    .about-us-section{
+        overflow: hidden;
+    }
+    .about-us-section .shape {
+        top: -80px;
+        left: -16px;
+    }
+    .revius_are .background_image .yellow_box {
+        width: 25%;
+        padding: 10px 15px;
+        left: 65%;
+        bottom: 10%;
+    }
+    .revius_are .background_content {
+        padding: 100px 80px 0px 0;
+    }
+    .revius_are .revius_mission .our_mission {
+        padding: 0 0px 0 50px;
+    }
+    .services_navbar-section .banner-section {
+        padding: 110px 0;
+    }
+    .services_provide-section .shape {
+        top: -80px;
+        right: -16px;
+    }
+    .solar_power-section .shape {
+        top: -80px;
+        left: -16px;
+    }
+    .wind_power-section .shape {
+        top: -80px;
+        right: -16px;
+    }
+    .residential_solar-section .shape {
+        top: -80px;
+        left: -16px;
+    }
+    .our_articles .shape2 {
+        top: -80px;
+        right: -16px;
+    }
+    .make_an_appointment {
+        overflow: hidden;
+    }
+    .our_articles {
+        overflow: hidden;
+    }
+    .projects_navbar-section .banner-section {
+        padding: 110px 0;
+    }
+    .projects_navbar-section .left_icons {
+        height: 430px;
+        margin-left: 67px;
+    }
+    .project_page_recent_projects-section .shape {
+        top: -30px;
+        left: -16px;
+    }
+    .teams_navbar-section .banner-section {
+        padding: 110px 0;
+    }
+    .teams_navbar-section .left_icons {
+        height: 430px;
+        margin-left: 67px;
+    }
+    .our_team-section .shape {
+        top: -80px;
+        right: -16px;
+    }
+    .our_testimonials {
+        overflow: hidden;
+    }
+    .our_testimonials .shape2 {
+        top: -80px;
+        left: -16px;
+    }
+    .contacts_navbar-section .banner-section {
+        padding: 110px 0;
+    }
+    .contacts_navbar-section .left_icons {
+        height: 430px;
+        margin-left: 67px;
+    }
+    .contact_info-section{
+        overflow: hidden;
+    }
+    .contact_info-section {
+        padding-bottom: 80px;
+    }
+    .contacts_map {
+        padding: 0 0 80px 0;
+    }
+    .faq_navbar-section .banner-section {
+        padding: 110px 0;
+    }
+    .faq_navbar-section .banner-section h5 {
+        padding-right: 165px;
+        margin-bottom: 28px;
+    }
+    .faq_navbar-section .left_icons {
+        height: 430px;
+        margin-left: 67px;
+    }
+    .make_an_appointment{
+        overflow: hidden;
+    }
+    .our_articles{
+        overflow: hidden;
+    }
+    .send_message {
+        overflow: hidden;
+    }
+    .footer-section{
+        overflow: hidden;
+    }
+    .modal-dialog {
+        max-width: 75%;
+    }
+    .about-us-section, .services_provide-section, .project_page_recent_projects-section, .our_team-section, .accordian-section, .contact_info-section {
+        margin-top: -339px;
+    }
+}
+@media screen and (max-width: 1199px) {
+    .navbar-section {
+        height: 780px;
+    }
+    .navbar {
+        padding: 15px 30px;
+    }
+    .navbar-brand img {
+        height: 100px;
+    }
+    .navbar-nav li {
+        margin: 0 10px;
+    }
+    .read_me_btn {
+        padding: 10px;
+        width: 165px;
+    }
+    .read_me_btn:hover {
+        padding: 10px;
+        width: 165px;
+    }
+    .navbar-nav .nav-item a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .left_icons {
+        height: 340px;
+        margin-left: 60px;
+    }
+    .left_icons ul li {
+        padding-bottom: 18px;
+    }
+    .left_icons ul li i {
+        padding: 12px;
+        font-size: 18px;
+        line-height: 18px;
+        height: 42px;
+    }
+    .banner-section {
+        padding: 35px 0 0;
+    }
+    .banner-section .col-lg-8.col-md-12.col-sm-12 {
+        margin-left: 45px;
+    }
+    h1 {
+        font-size: 44px;
+        line-height: 50px;
+        margin-bottom: 10px;
+    }
+    h5 {
+        margin-bottom: 23px;
+        line-height: 28px;
+        font-size: 20px;
+        padding-right: 35px;
+    }
+    .btn_wrapper a {
+        margin-right: 10px;
+    }
+    .offer_btn {
+        font-size: 14px;
+        line-height: 22px;
+        padding: 14px;
+    }
+    .learn_btn {
+        font-size: 14px;
+        line-height: 22px;
+        padding: 13px 20px;
+    }
+    .services_provide {
+        margin-top: -230px;
+        padding-bottom: 100px;
+    }
+    .services_logo img {
+        height: 100px;
+    }
+    .services_provide h6 {
+        font-size: 16px;
+        line-height: 32px;
+    }
+    .services_provide h2 {
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .services_provide h2 {
+        padding: 0px 55px;
+        margin-bottom: 30px;
+    }
+    .lower_portion_wrapper {
+        padding: 32px 32px;
+    }
+    .services_provider_content .lower_portion h4 {
+        padding-bottom: 0;
+        margin-bottom: 15px;
+        font-size: 22px;
+        line-height: 24px;
+    }
+    .services_provider_content .lower_portion p {
+        margin-bottom: 15px;
+        padding-bottom: 0;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .learn_more_wrapper {
+        padding: 0px;
+    }
+    .lower_portion_wrapper_residentialsolar {
+        padding: 32px 18px;
+    }
+    .learn_more_wrapper_resi_solar {
+        padding: 0;
+    }
+    .lower_portion .resi_solar {
+        padding: 0px 35px 15px;
+    }
+    .services_provide .shape {
+        top: -80px;
+        right: -10px;
+    }
+    .about_us {
+        padding: 100px 0;
+    }
+    .about_us .yellow_box {
+        padding: 20px 20px 20px 20px;
+        left: 20%;
+        bottom: -45px;
+        width: 50%;
+    }
+    .about_us .yellow_box i {
+        font-size: 28px;
+        line-height: 50px;
+        padding: 0px 100px;
+    }
+    .yellow_box h4 {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .aboutus_content {
+        padding-bottom: 20px;
+    }
+    .aboutus_content h6 {
+        margin-top: -5px;
+        font-size: 16px;
+        line-height: 32px;
+    }
+    .aboutus_content h2 {
+        font-size: 36px;
+        line-height: 42px;
+        margin-bottom: 15px !important;
+    }
+    .about_us_paragraph {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .about_us .box {
+        padding: 18px 0;
+        margin-right: 16px;
+    }
+    .about_us .box_oneth img{
+        width: 48px;
+    }
+    .about_us .box_two img{
+        width: 65px;
+    }
+    .about_us .box img {
+        padding-bottom: 0;
+        padding-top: 0;
+    }
+    .aboutus_box_content {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .recent_projects {
+        padding: 100px 0;
+    }
+    .recent_projects h6 {
+        font-size: 16px;
+        line-height: 32px;
+        margin-bottom: 10px;
+    }
+    .recent_projects h2 {
+        padding: 0px 140px;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .projects_content_wrapper {
+        padding: 0 20px;
+    }
+    .projects_content_wrapper h4{
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .project_paragraph {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .project_icon_wrapper {
+        margin-top: -45px;
+        margin-left: 520px;
+    }
+    .project_icon_wrapper i {
+        padding: 10px 16px;
+        font-size: 18px;
+        line-height: 18px;
+        height: 40px;
+    }
+    .project_icon_wrapper_hybrid {
+        margin-top: -45px;
+        margin-left: 230px;
+    }
+    .project_icon_wrapper_hybrid i {
+        padding: 10px 16px;
+        font-size: 18px;
+        line-height: 18px;
+        height: 40px;
+    }
+    .recent_projects .shape {
+        top: -80px;
+        left: -10px;
+    }
+    .viewall_btn {
+        padding: 15px 40px;
+    }
+
+    .make_an_appointment {
+        padding: 100px 0;
+    }
+    .appointment-content h6{
+        font-size: 16px;
+        line-height: 32px;
+    }
+    .appointment-content h2{
+        font-size: 36px;
+        line-height: 42px
+    }
+    .appointment_paragraph {
+        font-size: 16px;
+        line-height: 26px;
+        margin: 0px 0px 10px;
+        padding: 0;
+    }
+    .appoinment_phone_icon i{
+        margin-top: 15px;
+        font-size: 24px;
+        line-height: 24px;
+        margin-right: 5px;
+    }
+    .appoinment_phone_icon h3{
+        font-size: 22px;
+        line-height: 50px;
+    }
+    .company_statistics {
+        padding: 100px 0;
+    }
+    .company_stats_content h6 {
+        font-size: 16px;
+        line-height: 32px;
+        margin-top: 0;
+    }
+    .company_stats_content h2 {
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .company_stats_paragraph {
+        font-size: 16px;
+        line-height: 26px;
+        padding-right: 0;
+    }
+    .learn_btn_company_stats {
+        padding: 15px 40px;
+    }
+    .company_box_wrapper .box {
+        padding: 22px 0px;
+    }
+    .company_box_wrapper .box img {
+        padding-bottom: 0;
+        padding-top: 0;
+        width: 30%;
+    }
+    .companystatsnumbers_content {
+        font-size: 30px;
+        line-height: 26px;
+    }
+    .companybox_content {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .company_statistics .shape {
+        top: -80px;
+        right: -10px;
+    }
+    .company_box_wrapper .box figure {
+        margin: 0 0 10px;
+    }
+    .team_members {
+        padding: 100px 0;
+    }
+    .team_members h6 {
+        line-height: 32px;
+        font-size: 16px;
+    }
+    .team_members h2 {
+        padding: 0;
+        margin-bottom: 20px;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .team_members_content .lower_portion_wrapper {
+        padding: 30px 0px 40px;
+    }
+    .lower_portion .team_member_name {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .lower_portion .team_member_designation {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .team_members_content .lower_portion .team_member_designation {
+        margin-bottom: 12px;
+        padding-bottom: 0;
+    }
+    .socialmedia_icons_wrapper i {
+        padding: 7px;
+        font-size: 14px;
+        line-height: 17px;
+        height: 32px;
+    }
+    .team_members_content::after {
+        width: 72px;
+        left: 35%;
+    }
+    .yellow_border::after {
+        width: 72px;
+        left: 35%;
+    }
+    .team_members .shape {
+        top: -80px;
+        left: -10px;
+    }
+    .our_testimonials {
+        padding: 100px 0;
+    }
+    .our_testimonials h6 {
+        font-size: 16px;
+        line-height: 32px;
+    }
+    .our_testimonials h2 {
+        margin-bottom: 30px;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .testimonials_content .test_person_setting {
+        margin-top: -45px;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+    .testimonials_content .testimonial_member_name {
+        font-size: 22px;
+        line-height: 24px;
+    }
+    .testimonials_content .testimonial_paragraph {
+        font-size: 16px;
+        line-height: 28px;
+        padding: 10px 32px 35px;
+    }
+    .our_testimonials .owl-carousel .owl-nav button.owl-prev {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+    }
+    .our_testimonials .owl-carousel .owl-nav button.owl-prev span {
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .our_testimonials .owl-carousel .owl-nav button.owl-next {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+    }
+    .our_testimonials .owl-carousel .owl-nav button.owl-next span {
+        font-size: 40px;
+        line-height: 40px;
+        color: var(--secondary--color);
+    }
+    .our_testimonials .owl-carousel .owl-nav {
+        margin-top: 20px;
+    }
+    .testimonials_content .apostrophy {
+        margin-top: 10px;
+        margin-left: -20px;
+        height: 40px;
+    }
+    .our_testimonials .shape {
+        top: -65px;
+        right: -5px;
+    }
+
+    .our_articles {
+        padding: 100px 0;
+    }
+    .our_articles h6 {
+        font-size: 16px;
+        line-height: 32px;
+    }
+    .our_articles h2 {
+        padding: 0;
+        margin-bottom: 20px;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .articles_content .upper_portion .image_content .month_name {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .articles_content .upper_portion .image_content .month_date {
+        font-size: 22px;
+        line-height: 22px;
+    }
+    .articles_content .upper_portion .image_content {
+        padding: 5px 8px 5px;
+        width: 22%;
+        left: 114px;
+        bottom: -30px;
+    }
+    .articles_content .lower_portion h4 {
+        margin-bottom: 10px;
+        padding-bottom: 0;
+        font-size: 20px;
+        line-height: 22px;
+    }
+    .articles_content .lower_portion p {
+        margin-bottom: 15px;
+        padding-bottom: 0;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .articles_content .lower_portion_wrapper {
+        padding: 40px 25px 40px;
+    }
+    .articles_content .learn_more_wrapper {
+        padding: 0px;
+    }
+    .our_articles .shape {
+        top: -80px;
+        left: -10px;
+    }
+    .articles_content::after {
+        width: 80px;
+        left: 35%;
+    }
+
+    .send_message_content {
+        padding: 60px 60px;
+    }
+    .send_message_content h6 {
+        font-size: 16px;
+        line-height: 32px;
+    }
+    .send_message_content h2 {
+        font-size: 36px;
+        line-height: 42px;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+    .send_message_content .form-row>.col, .form-row>[class*=col-] {
+        padding-right: 5px;
+        padding-left: 5px;
+    }
+    .send_message_content .upper_layer_name {
+        font-size: 16px;
+        line-height: 24px;
+        padding-top: 22px;
+        padding-bottom: 22px;
+        padding-left: auto;
+    }
+    .send_message_content .upper_layer {
+        font-size: 16px;
+        line-height: 24px;
+        padding-top: 22px;
+        padding-bottom: 22px;
+        padding-left: auto;
+    }
+    .send_message_content .lower_message {
+        font-size: 16px;
+        line-height: 24px;
+        padding-top: 25px;
+        padding-bottom: 120px;
+        padding-left: auto;
+    }
+    .send_message_content .form_button_wrapper {
+        padding-top: 0;
+    }
+    .send_message_content .form_button_wrapper .button_style {
+        padding: 15px 50px;
+    }
+    .footer-section {
+        padding: 130px 0 0;
+        margin-top: -80px;
+    }
+    .footer_logo figure {
+        position: absolute;
+        top: 0px;
+        left: -130px;
+    }
+    .footer_logo img {
+        height: 180px;
+    }
+    .footer-section .middle-portion {
+        padding: 0;
+    }
+    .middle-portion p {
+        padding: 0;
+        margin-bottom: 10px;
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .middle-portion li .about_paragraph {
+        font-size: 15px;
+        line-height: 22px;
+        padding: 0px 0px 0px 0px;
+    }
+    .middle-portion .icons_wrapper {
+        padding-top: 13px;
+        padding-right: 0px;
+    }
+    .middle-portion .first_padding_left ul .icons {
+        width: 11%;
+        padding: 10px;
+        font-size: 18px;
+        line-height: 18px;
+        height: 40px;
+    }
+    .middle-portion li a {
+        font-size: 15px;
+        line-height: 28px;
+    }
+    .middle-portion li .diff {
+        font-size: 15px;
+    }
+    .middle-portion li .tel_num {
+        font-size: 20px;
+        line-height: 46px;
+    }
+    .copyright {
+        padding: 15px 0;
+    }
+    .copyright p {
+        font-size: 15px;
+    }
+    .sub-banner-section {
+        height: 825px;
+    }
+    .sub-banner-section .banner-section {
+        padding: 70px 0 100px 0;
+    }
+    .sub-banner-section .banner-section h5 {
+        padding-right: 60px;
+        margin-bottom: 28px;
+    }
+    .sub-banner-section .left_icons {
+        height: 335px;
+        margin-left: 67px;
+    }
+    .about_header_learn_btn {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 14px 25px;
+    }
+    .about-us-section {
+        text-align: center;
+        margin-top: -310px;
+        padding-bottom: 100px;
+    }
+    .aboutus_section_btn {
+        padding: 15px 40px;
+    }
+    .about-us-section .mb-4, .my-4 {
+        margin-bottom: 20px!important;
+    }
+    .about-us-section h2 {
+        padding: 0 130px;
+        margin: 0 0 10px;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .about-us-section h6 {
+        font-size: 16px;
+        line-height: 32px;
+    }
+    .about-us-section .margin_btm {
+        margin-bottom: 10px;
+    }
+    .about-us-section .aboutsection_paragraph {
+        font-size: 16px;
+        line-height: 26px;
+        padding: 0 0px;
+    }
+    .about-us-section .about_image{
+        width: 100%;
+    }
+    .btn_wrapper_projects {
+        margin-top: 30px;
+    }
+    .about-us-section .shape {
+        top: -70px;
+        left: -10px;
+    }
+    .road-map {
+        padding: 100px 0;
+    }
+    .road-map h6 {
+        font-size: 16px;
+        line-height: 32px;
+    }
+    .road-map h2{
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .road-map .roadmap_box_wrapper .box-outer {
+        margin: 30px 0 20px;
+    }
+    .road-map .roadmap_box_wrapper .box-outer span {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .road-map .roadmap_box_wrapper .box-outer i {
+        font-size: 22px;
+        line-height: 20px;
+    }
+    .roadmap_box_wrapper .box {
+        padding: 22px 10px 22px;
+    }
+    .roadmap_box_wrapper .roadmap_box_heading {
+        font-size: 20px;
+        line-height: 24px;
+        margin-bottom: 6px;
+    }
+    .roadmap_box_wrapper .roadmap_box_content {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .road-map .owl-carousel .owl-nav {
+        margin-top: 30px;
+    }
+    .road-map .owl-carousel .owl-nav button.owl-prev {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+    }
+    .road-map .owl-carousel .owl-nav button.owl-prev span {
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .road-map .owl-carousel .owl-nav button.owl-next {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+    }
+    .road-map .owl-carousel .owl-nav button.owl-next span {
+        font-size: 40px;
+        line-height: 40px;
+    }
+
+    .revius_are .background_image {
+        height: 480px;
+    }
+    .revius_are .background_image .yellow_box {
+        width: 30%;
+        padding: 15px 32px;
+        left: 60%;
+        bottom: 8%;
+    }
+    .revius_are .background_image .yellow_box .yellow_box_number {
+        font-size: 40px;
+        line-height: 40px;
+        margin-bottom: 10px;
+    }
+    .revius_are .background_image .yellow_box .yellow_box_text {
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 5px;
+    }
+    .revius_are .background_content {
+        padding: 60px 0px 0px 0;
+    }
+    .revius_are .background_content h6{
+        font-size: 16px;
+        line-height: 32px;
+    }
+    .revius_are .background_content h2{
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .revius_are .background_content .reviusare_content {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .revius_are .revius_mission i {
+        bottom: 98px;
+        left: 30px;
+        font-size: 26px;
+        line-height: 26px;
+    }
+    .revius_are .revius_mission .our_mission {
+        font-size: 20px;
+        line-height: 30px;
+        padding-left: 35px;
+    }
+    .services_navbar-section {
+        height: 800px;
+    }
+    .services_navbar-section .banner-section {
+        padding: 100px 0;
+    }
+    .services_navbar-section .banner-section h5 {
+        padding-right: 60px;
+        margin-bottom: 28px;
+    }
+    .services_navbar-section .left_icons {
+        height: 385px;
+        margin-left: 67px;
+    }
+
+    .services_provide-section {
+        text-align: center;
+        margin-top: -310px;
+        padding-bottom: 70px;
+    }
+    .services_provide-section .mb-4, .my-4 {
+        margin-bottom: 20px!important;
+    }
+    .services_provide-section h6 {
+        font-size: 16px;
+        line-height: 32px;
+    }
+    .services_provide-section h2 {
+        padding: 0 105px;
+        margin: 0 0 25px;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .services_provide-section .services_provider_content .lower_portion_wrapper {
+        padding: 30px;
+    }
+    .services_provide-section .services_provider_content .lower_portion figure {
+        margin: 0 0 20px;
+    }
+    .services_provide-section .services_provider_content .lower_portion .services_box_heading {
+        font-size: 20px;
+        line-height: 24px;
+        margin-bottom: 5px;
+    }
+    .services_provide-section .services_provider_content .lower_portion .services_box_text {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .services_provide-section .shape {
+        top: -80px;
+        right: -10px;
+    }
+
+    .solar_power-section {
+        padding: 100px 0;
+    }
+    .solar_power-section .solar_power_image {
+        height: 400px;
+    }
+    .solar_power-section .background_content {
+        padding: 30px 15px 50px 30px;
+    }
+    .solar_power-section .background_content h2 {
+        margin-bottom: 10px;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .solar_power-section .background_content .solar_power_content {
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: 8px;
+    }
+    .solar_power-section .background_content ul {
+        margin-bottom: 27px;
+    }
+    .solar_power-section .background_content ul li {
+        font-size: 16px;
+        line-height: 36px;
+    }
+    .solar_power-section .background_content ul li .fa {
+        padding: 2px;
+        font-size: 13px;
+        line-height: 12px;
+    }
+    .services_page_btn {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 20px 40px;
+    }
+    .solar_power-section .shape {
+        top: -80px;
+        left: -10px;
+    }
+
+    .wind_power-section {
+        padding: 100px 0;
+    }
+    .wind_power-section .wind_power_image {
+        height: 400px;
+    }
+    .wind_power-section .background_content {
+        padding: 30px 15px 50px 30px;
+    }
+    .wind_power-section .background_content h2 {
+        margin-bottom: 10px;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .wind_power-section .background_content .wind_power_content {
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: 8px;
+    }
+    .wind_power-section .background_content ul {
+        margin-bottom: 20px;
+    }
+    .wind_power-section .background_content ul li {
+        font-size: 16px;
+        line-height: 36px;
+    }
+    .wind_power-section .background_content ul li .fa {
+        padding: 2px;
+        font-size: 13px;
+        line-height: 12px;
+    }
+    .services_page_btn {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 20px 40px;
+    }
+    .wind_power-section .shape {
+        top: -80px;
+        right: -10px;
+    }
+    .residential_solar-section {
+        padding: 100px 0;
+    }
+    .residential_solar-section .residential_solar_image {
+        height: 400px;
+    }
+    .residential_solar-section .background_content {
+        padding: 30px 15px 50px 30px;
+    }
+    .residential_solar-section .background_content h2 {
+        margin-bottom: 10px;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .residential_solar-section .background_content .residential_solar_content {
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: 8px;
+    }
+    .residential_solar-section .background_content ul {
+        margin-bottom: 20px;
+    }
+    .residential_solar-section .background_content ul li {
+        font-size: 16px;
+        line-height: 36px;
+    }
+    .residential_solar-section .background_content ul li .fa {
+        padding: 2px;
+        font-size: 13px;
+        line-height: 12px;
+    }
+    .services_page_btn {
+        padding: 15px 30px;
+    }
+    .residential_solar-section .shape {
+        top: -80px;
+        left: -10px;
+    }
+    .our_articles .shape2 {
+        top: -80px;
+        right: -10px;
+    }
+    .projects_navbar-section {
+        height: 800px;
+    }
+    .projects_navbar-section .banner-section {
+        padding: 100px 0;
+    }
+    .projects_navbar-section .banner-section h5 {
+        padding-right: 60px;
+        margin-bottom: 28px;
+    }
+    .projects_navbar-section .left_icons {
+        height: 385px;
+        margin-left: 67px;
+    }
+
+    .project_page_recent_projects-section {
+        text-align: center;
+        margin-top: -310px;
+        padding-bottom: 100px;
+    }
+    .project_page_recent_projects-section .mb-4, .my-4 {
+        margin-bottom: 20px!important;
+    }
+    .project_page_recent_projects-section h6 {
+        font-size: 16px;
+        line-height: 32px;
+    }
+    .project_page_recent_projects-section h2 {
+        padding: 0 130px;
+        margin: 0 0 25px;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .project_page_recent_projects-section .images_content_wrapper img{
+        width: 100%;
+    }
+    .project_page_recent_projects-section .projects_content_wrapper {
+        padding: 0 20px;
+    }
+    .projects_content_wrapper h4{
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .project_page_recent_projects-section .project_paragraph {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .project_page_recent_projects-section .project_icon_wrapper {
+        margin-top: -45px;
+        margin-left: 445px;
+    }
+    .project_page_recent_projects-section .project_icon_wrapper i {
+        padding: 10px 16px;
+        font-size: 18px;
+        line-height: 18px;
+        height: 40px;
+    }
+    .project_page_recent_projects-section .project_icon_wrapper_hybrid {
+        margin-top: -45px;
+        margin-left: 185px;
+    }
+    .project_page_recent_projects-section .project_icon_wrapper_hybrid i {
+        padding: 10px 16px;
+        font-size: 18px;
+        line-height: 18px;
+        height: 40px;
+    }
+    .project_page_recent_projects-section .nav-tabs {
+        padding: 0px 203px;
+    }
+    .project_page_recent_projects-section .nav-tabs li {
+        padding: 8px 20px;
+    }
+    .project_page_recent_projects-section .tabs-box .nav-tabs li a {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .project_page_recent_projects-section .shape {
+        top: -30px;
+        left: -10px;
+    }
+
+    .teams_navbar-section {
+        height: 800px;
+    }
+    .teams_navbar-section .banner-section {
+        padding: 100px 0;
+    }
+    .teams_navbar-section .banner-section h5 {
+        padding-right: 60px;
+        margin-bottom: 28px;
+    }
+    .teams_navbar-section .left_icons {
+        height: 385px;
+        margin-left: 67px;
+    }
+    .our_team-section {
+        text-align: center;
+        margin-top: -310px;
+        padding-top: 0;
+        padding-bottom: 100px;
+        overflow: hidden;
+    }
+    .our_team-section .mb-4, .my-4 {
+        margin-bottom: 20px!important;
+    }
+    .our_team-section h6 {
+        font-size: 16px;
+        line-height: 32px;
+    }
+    .our_team-section h2 {
+        padding: 0 105px;
+        margin: 0 0 25px;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .our_team-section .shape {
+        top: -80px;
+        right: -10px;
+    }
+    .our_testimonials .shape2 {
+        top: -80px;
+        left: -10px;
+    }
+
+    .teams_message {
+        padding-top: 100px;
+    }
+    .contacts_navbar-section {
+        height: 800px;
+    }
+    .contacts_navbar-section .banner-section {
+        padding: 100px 0;
+    }
+    .contacts_navbar-section .banner-section h5 {
+        padding-right: 60px;
+        margin-bottom: 28px;
+    }
+    .contacts_navbar-section .left_icons {
+        height: 385px;
+        margin-left: 67px;
+    }
+
+    .contact_info-section {
+        text-align: center;
+        margin-top: -310px;
+    }
+    .contact_info-section .mb-4, .my-4 {
+        margin-bottom: 20px!important;
+    }
+    .contact_info-section h6 {
+        font-size: 16px;
+        line-height: 32px;
+    }
+    .contact_info-section h2 {
+        padding: 0 105px;
+        margin: 0 0 25px;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .contact_info-section .services_provider_content::after {
+        left: 38%;
+    }
+    .contact_info-section .services_provider_content .lower_portion_wrapper {
+        padding: 50px 18px 45px;
+    }
+    .contact_info-section .services_provider_content .lower_portion_wrapper img{
+        width: 50px;
+    }
+    .contacts_map {
+        padding: 0 0 80px 0;
+    }
+    .contacts_map iframe{
+        width: 100%;
+    }
+    .faq_navbar-section {
+        height: 800px;
+    }
+    .faq_navbar-section .banner-section {
+        padding: 100px 0;
+    }
+    .faq_navbar-section .banner-section h5 {
+        padding-right: 60px;
+        margin-bottom: 28px;
+    }
+    .faq_navbar-section .left_icons {
+        height: 385px;
+        margin-left: 67px;
+    }
+
+    .accordian-section {
+        text-align: center;
+        margin-top: -310px;
+        padding-bottom: 100px;
+    }
+    .accordian-section .mb-4, .my-4 {
+        margin-bottom: 20px!important;
+    }
+    .accordian-section h6 {
+        font-size: 16px;
+        line-height: 32px;
+    }
+    .accordian-section h2 {
+        padding: 0 105px;
+        margin: 0 0 25px;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .accordian-section .accordian-inner .accordion-card {
+        margin-bottom: 30px;
+    }
+    .accordian-section .accordian-inner .accordion-card .btn {
+        padding: 14px 40px 14px 10px;
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .accordian-section .accordion-card .btn-link:before {
+        right: 3px;
+        top: 10px;
+        font-size: 16px;
+        line-height: 16px;
+        padding: 8px 8px;
+    }
+    .accordian-section .accordian-inner .card-body {
+        padding: 10px 10px 10px 10px;
+    }
+    .accordian-section .accordian-inner .card-body p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .modal-dialog {
+        max-width: 60%;
+    }
+    .modal-header button {
+        right: 7px;
+        top: 0;
+        width: 35px;
+        height: 35px;
+    }
+    .modal-header button i {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 5px 5px;
+    }
+    .blog-auteher-title {
+        margin-bottom: 10px;
+    }
+    .blog-auteher-title span {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .blog-content .footer-social-icon ul li a i {
+        width: 40px;
+        height: 40px;
+        font-size: 16px;
+        line-height: 16px;
+        padding: 0;
+    }
+    .blog-content h4 {
+        margin-bottom: 15px;
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .blog-model-con p {
+        margin-bottom: 30px !important;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .comment-title {
+        padding-top: 25px;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .comment-title2 {
+        padding-bottom: 20px;
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .contact-form input {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 15px 15px;
+    }
+    .contact-form textarea {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 15px 15px;
+    }
+    .blog-model-form textarea {
+        height: 125px;
+        margin-bottom: 15px;
+    }
+    .contact-form button {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .blog-model-form button {
+        padding: 15px 35px;
+        font-size: 14px;
+        line-height: 14px;
+    }
+}
+
+@media screen and (max-width: 991px){
+
+    .navbar-section {
+        height: 740px;
+    }
+    .navbar {
+        padding: 10px 0px;
+    }
+    .navbar-brand img {
+        height: 92px;
+    }
+    .navbar .navbar-toggler{
+        height: 45px;
+    }
+    .navbar .navbar-toggler span{
+        height: 28px;
+    }
+    .navbar-collapse {
+        background: #49b9ec;
+        position: absolute;
+        right: 0px;
+        width: 30%;
+        top: 79px;
+        z-index: 16;
+        padding: 0;
+    }
+    .navbar-collapse ul{
+        align-items: unset;
+        text-align: unset;
+    }
+    button:focus {
+        outline: none;
+    }
+    .navbar-nav .nav-item a {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 14px 10px !important;
+        color: #fff !important;
+    }
+    .navbar-nav .active > a {
+        color: var(--yellow-color) !important;
+        font-weight: bold;
+    }
+    .navbar li{
+        padding-top: 0 !important;
+        margin: 0;
+    }
+    .read_me_btn {
+        padding: 14px;
+        font-size: 14px;
+        line-height: 14px;
+        width: 100%;
+    }
+    .read_me_btn:hover {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 14px;
+        width: 100%;
+    }
+    .left_icons {
+        height: 305px;
+        margin-left: 60px;
+    }
+    .left_icons ul li {
+        padding-bottom: 16px;
+    }
+    .left_icons ul li i {
+        padding: 12px;
+        font-size: 18px;
+        line-height: 18px;
+    }
+    .banner-section {
+        padding: 60px 0 0;
+        text-align: center;
+    }
+    .banner-section .col-lg-8.col-md-12.col-sm-12 {
+        margin-left: 0;
+    }
+    h1 {
+        font-size: 36px;
+        line-height: 42px;
+        margin-bottom: 22px;
+    }
+    h5 {
+        margin-bottom: 30px;
+        line-height: 26px;
+        font-size: 18px;
+        padding-right: 0px;
+    }
+    .btn_wrapper a {
+        margin-right: 10px;
+    }
+    .offer_btn {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 16px 18px;
+    }
+    .learn_btn {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 16px 26px;
+    }
+    .services_provide {
+        margin-top: -202px;
+        padding-bottom: 70px;
+    }
+    .services_logo img {
+        padding-bottom: 0;
+        height: 92px;
+    }
+    .services_provide h6 {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .services_provide h2 {
+        font-size: 30px;
+        line-height: 36px;
+        padding: 0px 40px;
+        margin-bottom: 20px;
+    }
+    .lower_portion_wrapper {
+        padding: 25px 15px 35px;
+    }
+    .services_provider_content .lower_portion h4 {
+        padding-bottom: 0;
+        margin-bottom: 12px;
+        font-size: 20px;
+        line-height: 22px;
+    }
+    .lower_portion p {
+        padding-bottom: 12px;
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .learn_more_wrapper {
+        padding: 0px;
+    }
+    .services_provider_content::after {
+        height: 3px;
+        width: 70px;
+        bottom: 0;
+        left: 36%;
+    }
+    .lower_portion_wrapper_residentialsolar {
+        padding: 25px 15px 35px;
+    }
+    .lower_portion .resi_solar {
+        padding: 0px 35px 12px;
+    }
+    .learn_more_wrapper_resi_solar {
+        padding: 0;
+    }
+    .services_provide .shape {
+        top: -75px;
+        right: -12px;
+    }
+    .services_provide .shape img{
+        height: 55px;
+    }
+
+    .about_us {
+        padding: 70px 0;
+    }
+    .aboutus_image img {
+        width: 100%;
+    }
+    .about_us .yellow_box {
+        padding: 20px 20px 20px 20px;
+        left: 12%;
+        bottom: -60px;
+        width: 58%;
+    }
+    .about_us .yellow_box i {
+        font-size: 26px;
+        line-height: 36px;
+        padding: 0px 65px;
+    }
+    .yellow_box h4 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .aboutus_content {
+        margin-right: 0;
+        margin-left: 0;
+        padding-bottom: 15px;
+    }
+    .aboutus_content h6 {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .aboutus_content h2 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .about_us_paragraph {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .box_wrapper {
+        margin-left: 0px;
+    }
+    .about_us .box {
+        padding: 10px 0px 10px;
+        margin-right: 5px;
+        width: 31%;
+    }
+    .about_us .box img {
+        padding-bottom: 0;
+        padding-top: 0;
+    }
+    .about_us .box_oneth img {
+        width: 42px;
+    }
+    .aboutus_box_content {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .about_us .box_two img {
+        width: 55px;
+    }
+
+    .recent_projects {
+        padding: 70px 0;
+    }
+    .recent_projects h6 {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .recent_projects h2 {
+        padding: 0 70px;
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .projects_content_wrapper {
+        padding: 0 5px;
+    }
+    .projects_content_wrapper h4 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .project_paragraph {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .second_row_projects {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .project_icon_wrapper {
+        margin-top: -35px;
+        margin-left: 380px;
+    }
+    .project_icon_wrapper i {
+        padding: 8px 12px;
+        font-size: 16px;
+        line-height: 16px;
+        height: 36px;
+    }
+    .project_icon_wrapper_hybrid {
+        margin-top: -40px;
+        margin-left: 170px;
+    }
+    .project_icon_wrapper_hybrid i {
+        padding: 8px 12px;
+        font-size: 16px;
+        line-height: 16px;
+        height: 36px;
+    }
+    .recent_projects .shape {
+        top: -75px;
+        left: -12px;
+    }
+    .recent_projects .shape img{
+        height: 55px;
+    }
+    .btn_wrapper_projects {
+        text-align: center;
+        margin-top: 50px;
+    }
+    .viewall_btn {
+        padding: 13px 40px;
+        font-size: 14px;
+        line-height: 14px;
+    }
+
+    .make_an_appointment {
+        padding: 70px 0;
+    }
+    .appointment-content h6 {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .appointment-content h2 {
+        font-size: 30px;
+        line-height: 36px;
+        margin: 0px 0px 8px 0px;
+        padding: 0;
+    }
+    .appointment_paragraph {
+        font-size: 14px;
+        line-height: 22px;
+        padding: 0;
+        margin: 0px 0px 12px;
+    }
+    .appoinment_phone_icon i {
+        margin-top: 3px;
+        font-size: 22px;
+        line-height: 22px;
+        margin-right: 0px;
+    }
+    .appoinment_phone_icon h3 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .company_statistics {
+        padding: 70px 0;
+    }
+    .company_stats_content h6 {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .company_stats_content h2 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .company_stats_paragraph {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .learn_btn_company_stats {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 15px 30px;
+    }
+    .company_btn_wrapper{
+        padding: 0;
+    }
+    .company_box_wrapper .box img {
+        padding-bottom: 0;
+        padding-top: 0;
+        width: 35%;
+    }
+    .company_box_wrapper .box1{
+        margin-left: 0;
+    }
+    .companystatsnumbers_content {
+        font-size: 26px;
+        line-height: 24px;
+    }
+    .companybox_content {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .company_box_wrapper .box .company_box_thirdimg {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .company_box_wrapper .box .company_box_forthimg {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .company_statistics .shape {
+        top: -65px;
+        right: -12px;
+    }
+    .company_statistics .shape img{
+        height: 55px;
+    }
+
+    .team_members {
+        padding: 70px 0;
+    }
+    .team_members h6 {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .team_members h2 {
+        padding-bottom: 0;
+        margin-bottom: 25px;
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .team_members_content .lower_portion_wrapper {
+        padding: 25px 0px 30px;
+    }
+    .lower_portion .team_member_name {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .lower_portion .team_member_designation {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .team_members {
+        padding: 70px 0;
+    }
+    .team_members_content .lower_portion .team_member_designation {
+        margin-bottom: 10px;
+        padding: 0;
+    }
+    .team_members_content .lower_portion .team_member_name {
+        margin-bottom: 5px;
+        padding: 0;
+    }
+    .socialmedia_icons_wrapper i {
+        width: 30px;
+        padding: 0;
+        font-size: 12px;
+        line-height: 30px;
+        height: 30px;
+    }
+    .team_members_content::after {
+        width: 62px;
+        left: 32%;
+    }
+    .team_members .shape {
+        top: -75px;
+        left: -12px;
+    }
+    .team_members .shape img{
+        height: 55px;
+    }
+    .our_testimonials {
+        padding: 70px 0;
+    }
+    .our_testimonials h6 {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .our_testimonials h2 {
+        padding-bottom: 0px;
+        margin-bottom: 20px;
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .testimonials_content .test_person_setting {
+        margin-top: -45px;
+        padding-bottom: 0;
+    }
+    .testimonials_content .five_stars {
+        padding-bottom: 10px;
+    }
+    .testimonials_content .testimonial_member_name {
+        font-size: 20px;
+        line-height: 22px;
+    }
+    .testimonials_content .testimonial_paragraph {
+        font-size: 14px;
+        line-height: 26px;
+        padding: 10px 35px 30px;
+    }
+    .testimonials_content .apostrophy {
+        margin-top: 10px;
+        margin-left: -60px;
+        height: 35px;
+    }
+    .our_testimonials .owl-carousel .owl-nav button.owl-prev {
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+    }
+    .our_testimonials .owl-carousel .owl-nav button.owl-prev span {
+        font-size: 38px;
+        line-height: 38px;
+    }
+    .our_testimonials .owl-carousel .owl-nav button.owl-next {
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+    }
+    .our_testimonials .owl-carousel .owl-nav button.owl-next span {
+        font-size: 38px;
+        line-height: 38px;
+    }
+    .our_testimonials .owl-carousel .owl-nav {
+        margin-top: 30px;
+    }
+    .our_testimonials .shape {
+        top: -75px;
+        right: -12px;
+    }
+    .our_testimonials .shape img{
+        height: 55px;
+    }
+
+    .our_articles {
+        padding: 70px 0;
+    }
+    .our_articles h6 {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .our_articles h2 {
+        padding-bottom: 0;
+        margin-bottom: 20px;
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .articles_content .lower_portion h4 {
+        padding-bottom: 0;
+        margin-bottom: 10px;
+        font-size: 17px;
+        line-height: 20px;
+    }
+    .articles_content .lower_portion p {
+        padding-bottom: 0;
+        margin-bottom: 10px;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .articles_content .lower_portion_wrapper {
+        padding: 30px 12px 35px;
+    }
+    .articles_content .learn_more_wrapper {
+        padding: 0;
+    }
+    .articles_content .upper_portion .image_content .month_date {
+        font-size: 18px;
+        line-height: 18px;
+    }
+    .articles_content .upper_portion .image_content .month_name {
+        font-size: 13px;
+        line-height: 14px;
+    }
+    .articles_content .upper_portion .image_content {
+        padding: 0px 5px 0px;
+        width: 25%;
+        left: 78px;
+        bottom: -20px;
+    }
+    .articles_content::after {
+        width: 75px;
+        left: 35%;
+    }
+    .our_articles .shape {
+        top: -75px;
+        left: -12px;
+    }
+    .our_articles .shape img{
+        height: 55px;
+    }
+
+    .send_message_content {
+        padding: 30px;
+    }
+    .send_message_content h6 {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .send_message_content h2 {
+        font-size: 30px;
+        line-height: 36px;
+        margin-bottom: 15px;
+        padding: 0;
+    }
+    .send_message_content .upper_layer_name {
+        font-size: 15px;
+        line-height: 22px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: auto;
+    }
+    .send_message_content .upper_layer {
+        font-size: 15px;
+        line-height: 22px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: auto;
+    }
+    .send_message_content .lower_message {
+        font-size: 15px;
+        line-height: 22px;
+        padding-top: 22px;
+        padding-bottom: 118px;
+        padding-left: auto;
+    }
+    .send_message_content .form_button_wrapper {
+        margin-top: 25px;
+    }
+    .send_message_content .form_button_wrapper .button_style {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 14px 45px;
+    }
+    .footer-section {
+        padding: 88px 0 0px;
+        margin-top: -55px;
+    }
+    .footer-section .middle-portion {
+        padding: 0;
+    }
+    .middle-portion {
+        margin-bottom: 35px;
+    }
+    .middle-portion p {
+        padding: 0;
+        margin-bottom: 10px;
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .middle-portion li .about_paragraph {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .middle-portion .icons_wrapper {
+        padding-top: 5px;
+    }
+    .middle-portion .first_padding_left ul .icons {
+        width: 14%;
+        padding: 10px;
+        font-size: 16px;
+        line-height: 16px;
+        height: 38px;
+    }
+    .middle-portion li a {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .middle-portion li .diff {
+        font-size: 14px;
+    }
+    .middle-portion li .tel_num {
+        font-size: 18px;
+        line-height: 42px;
+    }
+    .copyright {
+        padding: 10px 0;
+    }
+    .copyright p {
+        font-size: 14px;
+    }
+    .sub-banner-section {
+        height: 800px;
+    }
+    .sub-banner-section .banner-section {
+        padding: 60px 0;
+    }
+    .sub-banner-section .banner-section h5 {
+        padding: 0 35px;
+        margin-bottom: 20px;
+    }
+    .about_header_learn_btn {
+        padding: 14px 18px;
+    }
+    .sub-banner-section .left_icons {
+        height: 305px;
+        margin-left: 60px;
+    }
+    .about-us-section {
+        text-align: center;
+        margin-top: -295px;
+        padding-bottom: 70px;
+    }
+    .about-us-section .mb-4, .my-4 {
+        margin-bottom: 15px!important;
+    }
+    .about-us-section h6{
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .about-us-section h2 {
+        padding: 0 110px;
+        margin: 0 0 10px;
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .about-us-section .aboutsection_paragraph {
+        font-size: 14px;
+        line-height: 24px;
+        padding: 0 0px;
+    }
+    .btn_wrapper_projects {
+        margin-top: 20px;
+    }
+    .aboutus_section_btn {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 15px 30px;
+    }
+    .about-us-section .shape {
+        top: -65px;
+        left: -12px;
+    }
+    .about-us-section .shape img{
+        height: 55px;
+    }
+    .road-map {
+        padding: 70px 0;
+    }
+    .road-map h6 {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .road-map h2 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .road-map .roadmap_box_wrapper .box-outer {
+        margin: 38px 0 15px;
+        text-align: center;
+    }
+    .road-map .roadmap_box_wrapper .box-outer span {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .road-map .roadmap_box_wrapper .box-outer i {
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .roadmap_box_wrapper .box {
+        padding: 20px 22px 20px;
+    }
+    .roadmap_box_wrapper .roadmap_box_heading {
+        font-size: 16px;
+        line-height: 18px;
+        margin-bottom: 6px;
+        text-align: center;
+    }
+    .roadmap_box_wrapper .roadmap_box_content {
+        font-size: 14px;
+        line-height: 22px;
+        text-align: center;
+    }
+    .road-map .owl-carousel .owl-nav {
+        margin-top: 25px;
+    }
+    .road-map .owl-carousel .owl-nav button.owl-prev {
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+    }
+    .road-map .owl-carousel .owl-nav button.owl-prev span {
+        font-size: 38px;
+        line-height: 38px;
+    }
+    .road-map .owl-carousel .owl-nav button.owl-next {
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+    }
+    .road-map .owl-carousel .owl-nav button.owl-next span {
+        font-size: 38px;
+        line-height: 38px;
+    }
+    .revius_are .background_image {
+        height: 415px;
+    }
+    .revius_are .background_image .yellow_box {
+        width: 35%;
+        padding: 15px 32px;
+        left: 58%;
+        bottom: 7%;
+    }
+    .revius_are .background_image .yellow_box .yellow_box_number {
+        font-size: 42px;
+        line-height: 32px;
+    }
+    .revius_are .background_image .yellow_box .yellow_box_text {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .revius_are .background_content h6 {
+        font-size: 16px;
+        line-height: 28px;
+        margin-bottom: 0;
+    }
+    .revius_are .background_content h2 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .revius_are .background_content .reviusare_content {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .revius_are .revius_mission i {
+        bottom: 90px;
+        font-size: 22px;
+        line-height: 22px;
+    }
+    .revius_are .revius_mission .our_mission {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .services_navbar-section {
+        height: 870px;
+    }
+    .services_navbar-section .banner-section {
+        padding: 70px 0;
+    }
+    .services_navbar-section .banner-section h5 {
+        padding-right: 0;
+        margin-bottom: 32px;
+    }
+    .services_header_learn_btn {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 20px 20px;
+        display: inline-block;
+    }
+    .services_header_learn_btn:hover {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 20px 20px;
+        display: inline-block;
+    }
+    .services_navbar-section .left_icons {
+        height: 350px;
+        margin-left: 60px;
+    }
+    .services_provide-section {
+        margin-top: -295px;
+        padding-bottom: 40px;
+    }
+    .services_provide-section .mb-4, .my-4 {
+        margin-bottom: 15px!important;
+    }
+    .services_provide-section h6{
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .services_provide-section h2 {
+        padding: 0 90px;
+        margin: 0 0 20px;
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .services_provide-section .services_provider_content .lower_portion_wrapper {
+        padding: 25px 15px;
+    }
+    .services_provide-section .services_provider_content .lower_portion figure {
+        margin: 0 0 18px;
+    }
+    .services_provide-section .services_provider_content .lower_portion img{
+        height: 50px;
+    }
+    .services_provide-section .services_provider_content .lower_portion .services_box_heading {
+        font-size: 18px;
+        line-height: 22px;
+        margin-bottom: 8px;
+    }
+    .services_provide-section .services_provider_content .lower_portion .services_box_text {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .services_provide-section .services_provider_content::after {
+        height: 3px;
+        width: 60px;
+        bottom: 28px;
+        left: 12%;
+    }
+    .services_provide-section .shape {
+        top: -75px;
+        right: -12px;
+    }
+    .services_provide-section .shape img{
+        height: 55px;
+    }
+
+    .solar_power-section {
+        padding: 70px 0;
+    }
+    .solar_power-section .solar_power_image {
+        height: 370px;
+    }
+    .solar_power-section .background_content {
+        padding: 41px 15px;
+    }
+    .solar_power-section .background_content h2 {
+        margin-bottom: 10px;
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .solar_power-section .background_content .solar_power_content {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 5px;
+    }
+    .solar_power-section .background_content ul {
+        margin-bottom: 18px;
+    }
+    .solar_power-section .background_content ul li {
+        font-size: 14px;
+        line-height: 34px;
+    }
+    .solar_power-section .background_content ul li .fa {
+        padding: 2px;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .services_page_btn {
+        font-size: 15px;
+        line-height: 15px;
+        padding: 15px 25px;
+    }
+    .solar_power-section .shape {
+        top: -62px;
+        left: -12px;
+    }
+    .solar_power-section .shape img{
+        height: 55px;
+    }
+
+    .wind_power-section {
+        padding: 70px 0;
+    }
+    .wind_power-section .wind_power_image {
+        height: 370px;
+    }
+    .wind_power-section .background_content {
+        padding: 40px 15px;
+    }
+    .wind_power-section .background_content h2 {
+        margin-bottom: 10px;
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .wind_power-section .background_content .wind_power_content {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 5px;
+    }
+    .wind_power-section .background_content ul {
+        margin-bottom: 18px;
+    }
+    .wind_power-section .background_content ul li {
+        font-size: 14px;
+        line-height: 34px;
+    }
+    .wind_power-section .background_content ul li .fa {
+        padding: 2px;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .services_page_btn {
+        font-size: 15px;
+        line-height: 15px;
+        padding: 15px 25px;
+    }
+    .wind_power-section .shape {
+        top: -62px;
+        right: -12px;
+    }
+    .wind_power-section .shape img{
+        height: 55px;
+    }
+
+    .residential_solar-section {
+        padding: 70px 0;
+    }
+    .residential_solar-section .residential_solar_image {
+        height: 370px;
+    }
+    .residential_solar-section .background_content {
+        padding: 40px 15px;
+    }
+    .residential_solar-section .background_content h2 {
+        margin-bottom: 10px;
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .residential_solar-section .background_content .residential_solar_content {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 5px;
+    }
+    .residential_solar-section .background_content ul {
+        margin-bottom: 18px;
+    }
+    .residential_solar-section .background_content ul li {
+        font-size: 14px;
+        line-height: 34px;
+    }
+    .residential_solar-section .background_content ul li .fa {
+        padding: 2px;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .services_page_btn {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 15px 25px;
+    }
+    .residential_solar-section .shape {
+        top: -62px;
+        left: -12px;
+    }
+    .residential_solar-section .shape img{
+        height: 55px;
+    }
+    .our_articles .shape2 {
+        top: -75px;
+        right: -12px;
+    }
+    .our_articles .shape2 img{
+        height: 55px;
+    }
+    .projects_navbar-section {
+        height: 870px;
+    }
+    .projects_navbar-section .banner-section {
+        padding: 70px 0;
+    }
+    .projects_navbar-section .banner-section h5 {
+        padding-right: 0;
+        margin-bottom: 32px;
+    }
+    .projects_header_learn_btn {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 20px 20px;
+        display: inline-block;
+    }
+    .projects_header_learn_btn:hover {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 20px 20px;
+        display: inline-block;
+    }
+    .projects_navbar-section .left_icons {
+        height: 350px;
+        margin-left: 60px;
+    }
+    .project_page_recent_projects-section {
+        margin-top: -295px;
+        padding-bottom: 70px;
+    }
+    .project_page_recent_projects-section .mb-4, .my-4 {
+        margin-bottom: 15px!important;
+    }
+    .project_page_recent_projects-section h6{
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .project_page_recent_projects-section h2 {
+        padding: 0 110px;
+        margin: 0 0 20px;
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .project_page_recent_projects-section .nav-tabs {
+        padding: 0px 132px;
+    }
+    .project_page_recent_projects-section .nav-tabs li {
+        padding: 8px 10px;
+    }
+    .project_page_recent_projects-section .tabs-box .nav-tabs li a {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .project_page_recent_projects-section .images_content_wrapper {
+        padding-bottom: 60px;
+        padding-top: 0;
+    }
+    .project_page_recent_projects-section .projects_content_wrapper {
+        padding: 0 5px;
+    }
+    .project_page_recent_projects-section .tabs-box .tab-content{
+        padding-top: 25px;
+    }
+    .projects_content_wrapper h4 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .project_page_recent_projects-section .project_paragraph {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .second_row_projects {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .project_page_recent_projects-section .project_icon_wrapper {
+        margin-top: -35px;
+        margin-left: 345px;
+    }
+    .project_page_recent_projects-section .project_icon_wrapper i {
+        padding: 8px 12px;
+        font-size: 16px;
+        line-height: 16px;
+        height: 36px;
+    }
+    .project_page_recent_projects-section .project_icon_wrapper_hybrid {
+        margin-top: -35px;
+        margin-left: 165px;
+    }
+    .project_page_recent_projects-section .project_icon_wrapper_hybrid i {
+        padding: 8px 12px;
+        font-size: 16px;
+        line-height: 16px;
+        height: 36px;
+    }
+    .project_page_recent_projects-section .shape {
+        top: -75px;
+        left: -12px;
+    }
+    .project_page_recent_projects-section .shape img{
+        height: 55px;
+    }
+
+    .teams_navbar-section {
+        height: 870px;
+    }
+    .teams_navbar-section .banner-section {
+        padding: 70px 0;
+    }
+    .teams_navbar-section .banner-section h5 {
+        padding-right: 38px;
+        margin-bottom: 32px;
+    }
+    .team_header_learn_btn {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 20px 20px;
+        display: inline-block;
+    }
+    .team_header_learn_btn:hover {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 20px 20px;
+        display: inline-block;
+    }
+    .teams_navbar-section .left_icons {
+        height: 350px;
+        margin-left: 60px;
+    }
+
+    .our_team-section {
+        text-align: center;
+        margin-top: -295px;
+        padding-top: 0;
+        padding-bottom: 70px;
+    }
+    .our_team-section .mb-4, .my-4 {
+        margin-bottom: 15px!important;
+    }
+    .our_team-section h6{
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .our_team-section h2 {
+        padding: 0 110px;
+        margin: 0 0 20px;
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .our_team-section .shape {
+        top: -75px;
+        right: -12px;
+    }
+    .our_team-section .shape img{
+        height: 55px;
+    }
+
+    .our_testimonials .shape2 {
+        top: -75px;
+        left: -12px;
+    }
+    .our_testimonials .shape2 img{
+        height: 55px;
+    }
+    .teams_message {
+        padding-top: 70px;
+    }
+
+    .contacts_navbar-section {
+        height: 870px;
+    }
+    .contacts_navbar-section .banner-section {
+        padding: 70px 0;
+    }
+    .contacts_navbar-section .banner-section h5 {
+        padding-right: 38px;
+        margin-bottom: 32px;
+    }
+    .contacts_header_learn_btn {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 20px 20px;
+        display: inline-block;
+    }
+    .contacts_header_learn_btn:hover {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 20px 20px;
+        display: inline-block;
+    }
+    .contacts_navbar-section .left_icons {
+        height: 350px;
+        margin-left: 60px;
+    }
+    .contact_info-section {
+        margin-top: -295px;
+    }
+    .contact_info-section .mb-4, .my-4 {
+        margin-bottom: 15px!important;
+    }
+    .contact_info-section h6{
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .contact_info-section h2 {
+        padding: 0 110px;
+        margin: 0 0 20px;
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .contact_info-section .services_provider_content .lower_portion_wrapper {
+        padding: 30px 8px 30px;
+    }
+    .contact_info-section .services_provider_content .lower_portion a {
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .contact_info-section .services_provider_content .lower_portion_wrapper img {
+        width: 45px;
+    }
+    .contact_info-section .services_provider_content::after {
+        bottom: 0px;
+        left: 35%;
+    }
+    .contact_info-section .services_provider_content .lower_portion_wrapper2 {
+        padding: 45px 30px 45px;
+    }
+    .contact_info-section {
+        padding-bottom: 70px;
+    }
+    .contacts_map {
+        padding: 0 0 70px 0;
+    }
+    .contacts_map iframe {
+        height: 300px;
+    }
+    .faq_navbar-section {
+        height: 870px;
+    }
+    .faq_navbar-section .banner-section {
+        padding: 70px 0;
+    }
+    .faq_navbar-section .banner-section h5 {
+        padding-right: 38px;
+        margin-bottom: 32px;
+    }
+    .faq_header_learn_btn {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 20px 20px;
+        display: inline-block;
+    }
+    .faq_header_learn_btn:hover {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 20px 20px;
+        display: inline-block;
+    }
+    .faq_navbar-section .left_icons {
+        height: 350px;
+        margin-left: 60px;
+    }
+    .accordian-section {
+        text-align: center;
+        margin-top: -295px;
+        padding-bottom: 70px;
+    }
+    .accordian-section .mb-4, .my-4 {
+        margin-bottom: 15px!important;
+    }
+    .accordian-section h6{
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .accordian-section h2 {
+        padding: 0 110px;
+        margin: 0 0 20px;
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .accordian-section .accordian-inner .accordion-card {
+        margin-bottom: 20px;
+    }
+    .accordian-section .accordian-inner .accordion-card .btn {
+        padding: 12px 40px 12px 12px;
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .accordian-section .accordion-card .btn-link:before {
+        right: 10px;
+        top: 15px;
+        font-size: 14px;
+        line-height: 14px;
+        padding: 8px 8px;
+    }
+    .accordian-section .accordian-inner .card-body {
+        padding: 10px 10px 10px 10px;
+    }
+    .accordian-section .accordian-inner .card-body p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .modal-dialog {
+        max-width: 70%;
+    }
+    .modal-header button {
+        right: 3px;
+        top: 0px;
+        width: 32px;
+        height: 32px;
+    }
+    .modal-header button i {
+        font-size: 12px;
+        line-height: 18px;
+        padding: 8px 8px;
+    }
+    .blog-auteher-title {
+        margin-bottom: 35px;
+    }
+    .blog-auteher-title span {
+        font-size: 16px;
+        line-height: 16px;
+    }
+    .blog-auteher-title span:first-child {
+        float: left;
+    }
+    .blog-auteher-title span:last-child {
+        float: right;
+    }
+    .blog-content .footer-social-icon ul li a i {
+        width: 30px;
+        height: 30px;
+        font-size: 14px;
+        line-height: 14px;
+        padding: 0px;
+    }
+    .footer-social-icon ul li:nth-child(2) a i {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .blog-content h4 {
+        margin-bottom: 15px;
+        font-size: 22px;
+        line-height: 22px;
+    }
+    .blog-model-con p {
+        margin-bottom: 25px !important;
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .comment-title {
+        padding-top: 25px;
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .comment-title2 {
+        font-size: 26px;
+        line-height: 32px;
+        margin-bottom: 15px;
+        padding-bottom: 0;
+    }
+    .blog-model-form textarea {
+        height: 130px;
+        margin-bottom: 18px;
+    }
+    .blog-model-form button {
+        padding: 13px 30px;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .navbar-section {
+        height: 680px;
+    }
+    .navbar{
+        padding: 0.5rem 0rem;
+    }
+    .navbar-brand img {
+        height: 82px;
+    }
+    .navbar .navbar-toggler {
+        height: 40px;
+    }
+    .navbar .navbar-toggler span {
+        height: 20px;
+    }
+    .navbar-collapse {
+        width: 45%;
+        top: 69px;
+    }
+    .navbar-collapse ul{
+        align-items: unset;
+        text-align: unset;
+    }
+    button:focus {
+        outline: none;
+    }
+    .navbar-nav .nav-item a {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 10px 10px !important;
+        color: #fff !important;
+    }
+    .navbar-nav .active > a {
+        color: var(--yellow-color) !important;
+        font-weight: bold;
+    }
+    .read_me_btn {
+        padding: 14px;
+        font-size: 14px;
+        line-height: 14px;
+        width: 100%;
+    }
+    .read_me_btn:hover {
+        padding: 14px;
+        font-size: 14px;
+        line-height: 14px;
+        width: 100%;
+    }
+    .left_icons {
+        height: 175px;
+        margin-left: -32px;
+    }
+    .left_icons ul li {
+        padding-bottom: 12px;
+    }
+    .left_icons ul li i {
+        padding: 8px;
+        font-size: 14px;
+        line-height: 14px;
+        height: 32px;
+    }
+    .banner-section {
+        padding: 60px 0 0;
+        text-align: center;
+    }
+    h1 {
+        font-size: 30px;
+        line-height: 34px;
+        margin-bottom: 15px;
+    }
+    h5 {
+        margin-bottom: 25px;
+        line-height: 24px;
+        font-size: 16px;
+    }
+    .btn_wrapper a {
+        margin-right: 8px;
+    }
+    .learn_btn {
+        padding: 15px 20px;
+    }
+    .services_provide {
+        margin-top: -180px;
+        padding-bottom: 35px;
+    }
+    .services_logo img {
+        padding-bottom: 0;
+        height: 82px;
+    }
+    .services_provide h6 {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .services_provide h2 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .services_provide h2 {
+        padding: 0px 35px;
+        margin-bottom: 20px;
+    }
+    .service_padding{
+        padding-bottom: 25px;
+    }
+    .services_provider_content {
+        margin-bottom: 0px;
+    }
+    .services_provider_content::after {
+        height: 3px;
+        width: 70px;
+        bottom: 25px;
+        left: 36%;
+    }
+    .lower_portion_wrapper {
+        padding: 20px 15px 30px;
+    }
+    .services_provider_content .lower_portion p {
+        margin-bottom: 10px;
+        padding-bottom: 0;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .services_provider_content .lower_portion h4 {
+        padding: 0;
+        margin-bottom: 10px;
+    }
+    .learn_more_wrapper {
+        padding: 0px;
+    }
+    .learn_btn_yellow {
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .lower_portion_wrapper_residentialsolar {
+        padding: 20px 15px 30px;
+    }
+    .lower_portion .resi_solar {
+        padding: 0px 40px 10px;
+    }
+    .learn_more_wrapper_resi_solar {
+        padding: 0;
+    }
+    .services_provide .shape {
+        top: -65px;
+        right: -8px;
+    }
+    .services_provide .shape img{
+        height: 45px;
+    }
+
+    .about_us {
+        padding: 60px 0;
+    }
+    .aboutus_image img {
+        width: 100%;
+    }
+    .about_us .yellow_box {
+        padding: 20px 15px 22px 15px;
+        left: 31%;
+        bottom: -60px;
+        width: 40%;
+    }
+    .about_us .yellow_box i {
+        font-size: 22px;
+        line-height: 26px;
+        padding: 0px 73px;
+    }
+    .aboutus_content {
+        text-align: center;
+        padding: 85px 25px 25px;
+        text-align: center;
+    }
+    .aboutus_content h6 {
+        margin-top: 0;
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .aboutus_content h2 {
+        font-size: 26px;
+        line-height: 30px;
+        text-align: center !important;
+        padding: 0 15px;
+    }
+    .about_us_paragraph {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .about_us .box_wrapper {
+        text-align: center;
+    }
+    .about_us .box {
+        padding: 10px 15px 10px;
+        margin-right: 10px;
+        width: 28%;
+    }
+    .about_us .box_oneth img {
+        width: 35px;
+    }
+    .about_us .box img {
+        padding-bottom: 0;
+        padding-top: 0;
+    }
+    .aboutus_box_content {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .about_us .box_two img {
+        width: 48px;
+    }
+
+    .recent_projects {
+        padding: 60px 0;
+    }
+    .recent_projects h6 {
+        font-size: 14px;
+        line-height: 26px;
+        margin-bottom: 5px;
+    }
+    .recent_projects h2 {
+        padding: 0 15px;
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .recent_projects .images_content_wrapper {
+        padding-bottom: 35px;
+    }
+    .projects_content_wrapper {
+        padding: 0 5px;
+    }
+    .projects_content_wrapper h4 {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .project_paragraph {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .project_icon_wrapper {
+        margin-top: -30px;
+        margin-left: 275px;
+    }
+    .project_icon_wrapper i {
+        padding: 6px 10px;
+        font-size: 14px;
+        line-height: 14px;
+        height: 32px;
+    }
+    .project_icon_wrapper_hybrid {
+        margin-top: 5px;
+        margin-left: 105px;
+    }
+    .project_icon_wrapper_hybrid i {
+        padding: 6px 10px;
+        font-size: 14px;
+        line-height: 14px;
+        height: 32px;
+    }
+    .aboutus_section_btn {
+        font-size: 12px;
+        line-height: 12px;
+        padding: 15px 30px;
+    }
+    .viewall_btn {
+        line-height: 12px;
+        padding: 12px 30px;
+        font-size: 12px;
+    }
+    .recent_projects .shape {
+        top: -60px;
+        left: -8px;
+    }
+    .recent_projects .shape img{
+        height: 45px;
+    }
+
+    .make_an_appointment {
+        padding: 60px 0;
+    }
+    .appointment-content h6 {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .appointment-content h2 {
+        font-size: 26px;
+        line-height: 30px;
+        padding: 0px;
+        margin: 0 0 8px;
+    }
+    .appoinment_phone_icon i {
+        margin-top: 3px;
+        font-size: 20px;
+        line-height: 20px;
+        margin-right: 0px;
+    }
+    .appoinment_phone_icon h3 {
+        font-size: 18px;
+        line-height: 18px;
+    }
+
+    .company_statistics {
+        padding: 60px 0;
+    }
+    .company_stats_content{
+        text-align: center;
+        margin-bottom: 35px;
+    }
+    .company_stats_content h6 {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .company_stats_content h2 {
+        font-size: 26px;
+        line-height: 32px;
+        text-align: center !important;
+    }
+    .company_stats_paragraph {
+        font-size: 14px;
+        line-height: 22px;
+        padding-right: 0px;
+    }
+    .company_btn_wrapper {
+        padding: 0;
+    }
+    .learn_btn_company_stats {
+        font-size: 12px;
+        line-height: 12px;
+        padding: 15px 30px;
+    }
+    .company_box_wrapper .box {
+        width: 100%;
+        padding: 20px 0;
+    }
+    .company_box_wrapper .box1 {
+        margin-left: 0;
+    }
+    .company_box_wrapper .box img {
+        padding-bottom: 0;
+        padding-top: 0;
+        width: 33%;
+    }
+    .companystatsnumbers_content {
+        font-size: 24px;
+        line-height: 24px;
+    }
+    .companybox_content {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .company_statistics .shape {
+        top: -60px;
+        right: -8px;
+    }
+    .company_statistics .shape img{
+        height: 45px;
+    }
+    .team_members {
+        padding: 60px 0 35px 0;
+    }
+    .team_members h6 {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .team_members h2 {
+        padding-bottom: 0px;
+        margin-bottom: 20px;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .team_members_content .lower_portion_wrapper {
+        padding: 22px 0px 28px;
+    }
+    .lower_portion .team_member_name {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .lower_portion .team_member_designation {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .team_members_content .lower_portion .team_member_name {
+        padding-bottom: 0;
+        margin-bottom: 5px;
+    }
+    .team_members_content .lower_portion .team_member_designation {
+        padding-bottom: 0;
+        margin-bottom: 12px;
+    }
+    .team_members .padding_bottom {
+        padding-bottom: 25px;
+    }
+    .team_members_content::after {
+        width: 70px;
+        left: 35%;
+    }
+    .yellow_border::after {
+        width: 70px;
+        left: 35%;
+        bottom: 25px;
+    }
+    .team_members .shape {
+        top: -60px;
+        left: -8px;
+    }
+    .team_members .shape img{
+        height: 45px;
+    }
+
+    .our_testimonials {
+        padding: 60px 0;
+    }
+    .our_testimonials h6 {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .our_testimonials h2 {
+        margin-bottom: 20px;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .testimonials_content .test_person_setting {
+        margin-top: -45px;
+        padding: 0;
+        margin-bottom: 15px;
+    }
+    .testimonials_content .five_stars {
+        padding-bottom: 10px;
+    }
+    .testimonials_content .testimonial_member_name {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .testimonials_content .testimonial_paragraph {
+        font-size: 14px;
+        line-height: 20px;
+        padding: 12px 10px 30px;
+    }
+    .testimonials_content .apostrophy {
+        margin-top: 0px;
+        margin-left: -95px;
+        height: 30px;
+    }
+    .our_testimonials .testimonial_borderline {
+        padding-top: 20px;
+    }
+    .our_testimonials .owl-carousel .owl-nav {
+        margin-top: 25px;
+    }
+    .our_testimonials .owl-carousel .owl-nav button.owl-prev {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin: 0 5px;
+    }
+    .our_testimonials .owl-carousel .owl-nav button.owl-prev span {
+        font-size: 36px;
+        line-height: 36px;
+    }
+    .our_testimonials .owl-carousel .owl-nav button.owl-next {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin: 0px 5px;
+    }
+    .our_testimonials .owl-carousel .owl-nav button.owl-next span {
+        font-size: 36px;
+        line-height: 36px;
+    }
+    .our_testimonials .shape {
+        top: -60px;
+        right: -8px;
+    }
+    .our_testimonials .shape img{
+        height: 45px;
+    }
+
+    .our_articles {
+        padding: 60px 0 35px 0;
+    }
+    .our_articles h6 {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .our_articles h2 {
+        margin-bottom: 20px;
+        padding: 0;
+        font-size: 26px;
+        line-height: 36px;
+    }
+    .articles_content .lower_portion h4 {
+        margin-bottom: 10px;
+        font-size: 16px;
+        line-height: 18px;
+        padding: 0;
+    }
+    .articles_content .lower_portion p {
+        margin-bottom: 15px;
+        padding: 0;
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .articles_content .lower_portion_wrapper {
+        padding: 35px 25px 35px;
+    }
+    .article_learn_btn_yellow {
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .articles_content .learn_more_wrapper {
+        padding: 0;
+    }
+    .articles_content .upper_portion .image_content {
+        padding: 0px 10px 0px;
+        width: 20%;
+        left: 95px;
+        bottom: -25px;
+    }
+    .articles_content .upper_portion .image_content .month_name {
+        font-size: 13px;
+        line-height: 14px;
+    }
+    .articles_content .upper_portion .image_content .month_date {
+        font-size: 18px;
+        line-height: 18px;
+    }
+    .our_articles .article_padding{
+        padding-bottom: 25px;
+    }
+    .articles_content::after {
+        width: 75px;
+        left: 35%;
+        bottom: 25px;
+    }
+    .our_articles .shape {
+        top: -60px;
+        left: -8px;
+    }
+    .our_articles .shape img {
+        height: 45px;
+    }
+
+    .send_message {
+        overflow: hidden;
+    }
+    .send_message_content {
+        padding: 40px;
+    }
+    .send_message_content h6 {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .send_message_content h2 {
+        font-size: 26px;
+        line-height: 32px;
+        margin-bottom: 10px;
+        padding: 0;
+    }
+    .send_message_content .upper_layer_name {
+        font-size: 14px;
+        line-height: 18px;
+        padding-top: 18px;
+        padding-bottom: 18px;
+        padding-left: auto;
+    }
+    .send_message_content .upper_layer {
+        font-size: 14px;
+        line-height: 18px;
+        padding-top: 18px;
+        padding-bottom: 18px;
+        padding-left: auto;
+    }
+    .send_message_content .lower_message {
+        font-size: 14px;
+        line-height: 18px;
+        padding-top: 20px;
+        padding-bottom: 100px;
+        padding-left: auto;
+    }
+    .send_message_content .form_button_wrapper {
+        padding-top: 0;
+        margin-top: 20px;
+    }
+    .send_message_content .form_button_wrapper .button_style {
+        padding: 12px 40px;
+    }
+
+    .footer-section {
+        padding: 84px 0 0px;
+        margin-top: -45px;
+    }
+    .middle-portion {
+        padding: 0;
+        margin-bottom: 45px;
+    }
+    .middle-portion .first_padding_left {
+        padding-bottom: 0px;
+    }
+    .middle-portion p {
+        padding: 0;
+        margin-bottom: 10px;
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .middle-portion li .about_paragraph {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .middle-portion .icons_wrapper {
+        padding-top: 10px;
+    }
+    .middle-portion .first_padding_left ul .icons {
+        width: 18%;
+        padding: 10px;
+        font-size: 18px;
+        line-height: 18px;
+        height: 40px;
+    }
+    .middle-portion li a {
+        font-size: 13px;
+        line-height: 22px;
+    }
+    .middle-portion li .diff {
+        font-size: 14px;
+    }
+    .middle-portion li .tel_num {
+        font-size: 18px;
+        line-height: 38px;
+    }
+    .copyright {
+        padding: 5px 0;
+    }
+    .copyright p {
+        font-size: 14px;
+    }
+    .sub-banner-section {
+        height: 715px;
+    }
+    .sub-banner-section .banner-section {
+        padding: 60px 0;
+    }
+    .sub-banner-section .banner-section h5 {
+        padding: 0;
+    }
+    .sub-banner-section .left_icons {
+        height: 350px;
+        margin-left: -32px;
+    }
+
+    .about-us-section {
+        margin-top: -260px;
+        padding-bottom: 60px;
+    }
+    .about-us-section h6 {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .about-us-section h2 {
+        padding: 0 35px;
+        margin: 0 0 10px;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .about-us-section .aboutsection_paragraph {
+        font-size: 14px;
+        line-height: 22px;
+        padding: 0 0px;
+    }
+    .about-us-section .shape {
+        top: -47px;
+        left: -15px;
+    }
+    .about-us-section .shape img {
+        height: 45px;
+    }
+    .road-map {
+        padding: 60px 0;
+    }
+    .road-map h6 {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .road-map h2 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .road-map .roadmap_box_wrapper .box-outer {
+        margin: 20px 0 15px;
+    }
+    .road-map .owl-carousel .owl-stage-outer::after {
+        top: 59px;
+    }
+    .road-map .roadmap_box_wrapper .box-outer span {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .road-map .roadmap_box_wrapper .box-outer i {
+        font-size: 18px;
+        line-height: 18px;
+    }
+    .roadmap_box_wrapper .box {
+        padding: 20px 8px 20px;
+    }
+    .roadmap_box_wrapper .roadmap_box_heading {
+        font-size: 16px;
+        line-height: 18px;
+        margin-bottom: 6px;
+    }
+    .roadmap_box_wrapper .roadmap_box_content {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .road-map .owl-carousel .owl-nav {
+        margin-top: 20px;
+    }
+    .road-map .owl-carousel .owl-nav button.owl-prev {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin: 0 5px;
+    }
+    .road-map .owl-carousel .owl-nav button.owl-prev span {
+        font-size: 36px;
+        line-height: 36px;
+    }
+    .road-map .owl-carousel .owl-nav button.owl-next {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin: 0 5px;
+    }
+    .road-map .owl-carousel .owl-nav button.owl-next span {
+        font-size: 36px;
+        line-height: 36px;
+    }
+
+    .revius_are .background_image {
+        height: 460px;
+    }
+    .revius_are .background_image .yellow_box {
+        width: 25%;
+        padding: 15px 20px;
+        left: 65%;
+        bottom: 10%;
+    }
+    .revius_are .background_image .yellow_box .yellow_box_number {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    .revius_are .background_image .yellow_box .yellow_box_text {
+        font-size: 16px;
+        line-height: 16px;
+    }
+    .revius_are .background_content {
+        padding: 52px 0px 0px 0;
+    }
+    .revius_are .background_content h6 {
+        font-size: 14px;
+        line-height: 26px;
+        text-align: center;
+    }
+    .revius_are .background_content h2 {
+        font-size: 26px;
+        line-height: 32px;
+        text-align: center !important;
+    }
+    .revius_are .background_content .reviusare_content {
+        text-align: center;
+    }
+    .revius_are .revius_mission i {
+        display: none;
+    }
+    .revius_are .revius_mission .our_mission {
+        padding: 0 0px 0 0px;
+        font-size: 16px;
+        line-height: 22px;
+        text-align: center !important;
+        margin-bottom: 57px;
+    }
+    .services_navbar-section {
+        height: 880px;
+    }
+    .services_navbar-section .banner-section {
+        padding: 60px 0;
+    }
+    .services_navbar-section .banner-section h5 {
+        padding-right: 0;
+        margin-bottom: 38px;
+    }
+    .services_header_learn_btn {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 22px 22px;
+    }
+    .services_header_learn_btn:hover {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 22px 22px;
+    }
+    .services_navbar-section .left_icons {
+        height: 350px;
+        margin-left: -32px;
+    }
+    .services_provide-section {
+        margin-top: -260px;
+        padding-bottom: 30px;
+    }
+    .services_provide-section h6 {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .services_provide-section h2 {
+        padding: 0 0px;
+        margin: 0 0 10px;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .services_provide-section .services_provider_content{
+        text-align: center !important;
+    }
+    .services_provide-section .services_provider_content::after {
+        height: 3px;
+        width: 75px;
+        bottom: 28px;
+        left: 35%;
+    }
+    .services_provide-section .services_provider_content .lower_portion_wrapper {
+        padding: 30px 15px;
+    }
+    .services_provide-section .services_provider_content .lower_portion img {
+        height: 48px;
+    }
+    .services_provide-section .services_provider_content .lower_portion .services_box_heading {
+        font-size: 18px;
+        line-height: 18px;
+        margin-bottom: 10px;
+    }
+    .services_provide-section .shape {
+        top: -65px;
+        right: -8px;
+    }
+    .services_provide-section .shape img{
+        height: 45px;
+    }
+
+    .solar_power-section {
+        padding: 60px 0;
+    }
+    .solar_power-section .solar_power_image {
+        height: 342px;
+    }
+    .solar_power-section .background_content {
+        text-align: center;
+    }
+    .solar_power-section .background_content h2 {
+        margin-bottom: 5px;
+        font-size: 26px;
+        line-height: 32px;
+        text-align: center !important;
+    }
+    .solar_power-section .background_content .solar_power_content {
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 5px;
+    }
+    .solar_power-section .background_content ul {
+        margin-bottom: 10px;
+    }
+    .solar_power-section .background_content ul li {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .solar_power-section .background_content ul li .fa {
+        padding: 2px;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .services_page_btn {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 14px 18px;
+    }
+    .solar_power-section .shape {
+        top: -52px;
+        left: -8px;
+    }
+    .solar_power-section .shape img{
+        height: 45px;
+    }
+    .wind_power-section {
+        padding: 60px 0;
+    }
+    .wind_power-section .wind_power_image {
+        height: 342px;
+    }
+    .wind_power-section .background_content {
+        text-align: center;
+    }
+    .wind_power-section .background_content h2 {
+        margin-bottom: 5px;
+        font-size: 26px;
+        line-height: 32px;
+        text-align: center !important;
+    }
+    .wind_power-section .background_content .wind_power_content {
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 5px;
+    }
+    .wind_power-section .background_content ul {
+        margin-bottom: 10px;
+    }
+    .wind_power-section .background_content ul li {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .wind_power-section .background_content ul li .fa {
+        padding: 2px;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .services_page_btn {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 14px 18px;
+    }
+    .wind_power-section .shape {
+        top: -52px;
+        right: -8px;
+    }
+    .wind_power-section .shape img{
+        height: 45px;
+    }
+
+    .residential_solar-section {
+        padding: 60px 0;
+    }
+    .residential_solar-section .residential_solar_image {
+        height: 342px;
+    }
+    .residential_solar-section .background_content {
+        text-align: center;
+    }
+    .residential_solar-section .background_content h2 {
+        margin-bottom: 5px;
+        font-size: 26px;
+        line-height: 32x;
+        text-align: center !important;
+    }
+    .residential_solar-section .background_content .residential_solar_content {
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 5px;
+    }
+    .residential_solar-section .background_content ul {
+        margin-bottom: 10px;
+    }
+    .residential_solar-section .background_content ul li {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .residential_solar-section .background_content ul li .fa {
+        padding: 2px;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .services_page_btn {
+        font-size: 12px;
+        line-height: 12px;
+        padding: 14px 20px;
+    }
+    .residential_solar-section .shape {
+        top: -52px;
+        left: -8px;
+    }
+    .residential_solar-section .shape img{
+        height: 45px;
+    }
+
+    .our_articles .shape2 {
+        top: -65px;
+        right: -8px;
+    }
+    .our_articles .shape2 img{
+        height: 45px;
+    }
+
+    .projects_navbar-section {
+        height: 880px;
+    }
+    .projects_navbar-section .banner-section {
+        padding: 60px 0;
+    }
+    .projects_navbar-section .banner-section h5 {
+        padding-right: 0;
+        margin-bottom: 38px;
+    }
+    .projects_header_learn_btn {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 22px 22px;
+    }
+    .projects_header_learn_btn:hover {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 22px 22px;
+    }
+    .projects_navbar-section .left_icons {
+        height: 350px;
+        margin-left: -32px;
+    }
+    .project_page_recent_projects-section {
+        margin-top: -260px;
+        padding-bottom: 40px;
+        overflow: hidden;
+    }
+    .project_page_recent_projects-section h6 {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .project_page_recent_projects-section h2 {
+        padding: 0 15px;
+        margin: 0 0 10px;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .project_page_recent_projects-section .nav-tabs {
+        padding: 0px 42px;
+    }
+    .project_page_recent_projects-section .tabs-box .nav-tabs li a {
+        font-size: 16px;
+        line-height: 16px;
+    }
+    .project_page_recent_projects-section .images_content_wrapper {
+        padding-bottom: 30px;
+        padding-top: 0;
+    }
+    .project_page_recent_projects-section .projects_content_wrapper {
+        padding: 0 5px;
+    }
+    .projects_content_wrapper h4 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .project_page_recent_projects-section .project_paragraph {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .project_page_recent_projects-section .project_icon_wrapper {
+        margin-top: -25px;
+        margin-left: 235px;
+    }
+    .project_page_recent_projects-section .project_icon_wrapper i {
+        padding: 6px 10px;
+        font-size: 14px;
+        line-height: 14px;
+        height: 32px;
+    }
+    .project_page_recent_projects-section .project_icon_wrapper_hybrid {
+        margin-top: 5px;
+        margin-left: 105px;
+    }
+    
+    .project_page_recent_projects-section .project_icon_wrapper_hybrid i {
+        padding: 6px 10px;
+        font-size: 14px;
+        line-height: 14px;
+        height: 32px;
+    }
+    .project_page_recent_projects-section .shape {
+        top: -65px;
+        left: -8px;
+    }
+    .project_page_recent_projects-section .shape img {
+        height: 45px;
+    }
+
+    .teams_navbar-section {
+        height: 880px;
+    }
+    .teams_navbar-section .banner-section {
+        padding: 60px 0;
+    }
+    .teams_navbar-section .banner-section h5 {
+        padding-right: 5px;
+        margin-bottom: 38px;
+    }
+    .team_header_learn_btn {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 22px 22px;
+    }
+    .team_header_learn_btn:hover {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 22px 22px;
+    }
+    .teams_navbar-section .left_icons {
+        height: 350px;
+        margin-left: -32px;
+    }
+    .our_team-section {
+        margin-top: -260px;
+        padding-top: 0;
+        padding-bottom: 30px;
+        overflow: hidden;
+    }
+    .our_team-section h6 {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .our_team-section h2 {
+        padding: 0 0px;
+        margin: 0 0 25px;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .our_team-section .second_padding{
+        margin-bottom: 30px;
+    }
+    .our_team-section .shape {
+        top: -65px;
+        right: -8px;
+    }
+    .our_team-section .shape img {
+        height: 45px;
+    }
+
+    .our_testimonials .shape2 {
+        top: -65px;
+        left: -8px;
+    }
+    .our_testimonials .shape2 img {
+        height: 45px;
+    }
+
+    .teams_message {
+        padding-top: 60px;
+    }
+
+    .contacts_navbar-section {
+        height: 880px;
+    }
+    .contacts_navbar-section .banner-section {
+        padding: 60px 0;
+    }
+    .contacts_navbar-section .banner-section h5 {
+        padding-right: 5px;
+        margin-bottom: 38px;
+    }
+    .contacts_header_learn_btn {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 22px 22px;
+    }
+    .contacts_header_learn_btn:hover {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 22px 22px;
+    }
+    .contacts_navbar-section .left_icons {
+        height: 350px;
+        margin-left: -32px;
+    }
+
+    .contact_info-section {
+        margin-top: -260px;
+        overflow: hidden;
+    }
+    .contact_info-section h6 {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .contact_info-section h2 {
+        padding: 0 0px;
+        margin: 0 0 15px;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .contact_info-section .services_provider_content .lower_portion_wrapper {
+        padding: 30px 15px 30px;
+    }
+    .contact_info-section .services_provider_content::after {
+        bottom: 25px;
+        left: 35%;
+    }
+    .contact_info-section .contacts_padding{
+        padding-bottom: 25px;
+    }
+    .contact_info-section {
+        padding-bottom: 0;
+    }
+    .contacts_map{
+        padding: 35px 0 60px 0;
+    }
+    .faq_navbar-section {
+        height: 880px;
+    }
+    .faq_navbar-section .banner-section {
+        padding: 60px 0;
+    }
+    .faq_navbar-section .banner-section h5 {
+        padding-right: 12px;
+        margin-bottom: 38px;
+    }
+    .faq_header_learn_btn {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 22px 22px;
+    }
+    .faq_header_learn_btn:hover {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 22px 22px;
+    }
+    .faq_navbar-section .left_icons {
+        height: 350px;
+        margin-left: -32px;
+    }
+    .accordian-section {
+        margin-top: -260px;
+        padding-bottom: 35px;
+        overflow: hidden;
+    }
+    .accordian-section h6 {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .accordian-section h2 {
+        padding: 0 0px;
+        margin: 0 0 10px;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .accordian-section .accordian-inner .accordion-card {
+        margin-bottom: 25px;
+    }
+    .accordian-section .accordian-inner .accordion-card .btn {
+        padding: 15px 50px 15px 15px;
+    }
+    .accordian-section .accordion-card .btn-link:before {
+        right: 15px;
+        top: 10px;
+        font-size: 16px;
+        line-height: 16px;
+        padding: 8px 10px;
+    }
+    .accordian-section .accordian-inner .card-body {
+        padding: 10px 50px 15px 15px;
+    }
+    .accordian-section .accordian-inner .card-body p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .accordian-section .accordian-inner .accordion-card:last-child {
+        margin-bottom: 25px !important;
+    }
+
+    .modal-dialog {
+        max-width: 80%;
+    }
+    .modal-header button {
+        right: 3px;
+        top: 0px;
+        width: 35px;
+        height: 35px;
+    }
+    .modal-header {
+        padding: 10px;
+    }
+    .blog-model-con .modal-body {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .blog-content {
+        padding: 20px 27px 20px;
+    }
+    .blog-auteher-title {
+        margin-bottom: 35px;
+    }
+    .blog-auteher-title span {
+        font-size: 16px;
+        line-height: 16px;
+    }
+    .blog-auteher-title span:last-child {
+        float: right;
+    }
+    .blog-content h4 {
+        margin-bottom: 15px;
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .footer-social-icon ul {
+        margin-top: 0;
+        margin-bottom: 1rem;
+        padding-left: 0px;
+    }
+    .blog-model-form textarea {
+        height: 120px;
+        margin-bottom: 20px;
+    }
+}
+
+ @media screen and (max-width: 575px){
+    .navbar-section {
+        height: 650px;
+    }
+    .navbar {
+        padding: 5px 0px;
+    }
+    .navbar-brand img {
+        height: 72px;
+        margin-left: 15px;
+    }
+    .navbar .navbar-toggler {
+        height: 38px;
+        margin-right: 15px;
+    }
+    .navbar .navbar-toggler span {
+        height: 20px;
+    }
+    .navbar-collapse {
+        width: 60%;
+        top: 59px;
+    }
+    .navbar-collapse ul{
+        align-items: unset;
+        text-align: unset;
+    }
+    button:focus {
+        outline: none;
+    }
+    .navbar-nav .nav-item a {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 10px 10px !important;
+        color: #fff !important;
+    }
+    .navbar-nav .active > a {
+        color: var(--yellow-color) !important;
+        font-weight: bold;
+    }
+    .read_me_btn {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 14px;
+        width: 100%;
+    }
+    .read_me_btn:hover {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 14px;
+        width: 100%;
+    }
+    .left_icons {
+        height: 160px;
+        margin-left: -30px;
+    }
+    .left_icons ul li {
+        padding-bottom: 10px;
+    }
+    .left_icons ul li i {
+        padding: 8px;
+        font-size: 12px;
+        line-height: 12px;
+        height: 28px;
+    }
+    .banner-section {
+        padding: 40px 0 0;
+        text-align: center;
+    }
+    h1 {
+        font-size: 26px;
+        line-height: 30px;
+        margin-bottom: 10px;
+    }
+    h5 {
+        margin-bottom: 20px;
+    }
+    .btn_wrapper a {
+        margin-right: 5px;
+    }
+    .offer_btn {
+        font-size: 12px;
+        line-height: 12px;
+        padding: 14px 18px;
+    }
+    .learn_btn {
+        font-size: 12px;
+        line-height: 12px;
+        padding: 13px 20px;
+    }
+    .services_provide {
+        margin-top: -175px;
+    }
+    .services_logo img {
+        padding-bottom: 0;
+        height: 72px;
+    }
+    .services_provide .services_logo .mb-4, .my-4 {
+        margin-bottom: 0.6rem!important;
+    }
+    .services_provide h6 {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .services_provide h2 {
+        font-size: 24px;
+        line-height: 30px;
+        padding: 0;
+        margin-bottom: 20px;
+    }
+    .service_padding{
+        padding-bottom: 25px;
+    }
+    .services_provider_content {
+        margin-bottom: 0px;
+    }
+    .services_provider_content::after {
+        height: 3px;
+        width: 75px;
+        bottom: 25px;
+        left: 40%;
+    }
+    .lower_portion_wrapper {
+        padding: 20px 35px 30px;
+    }
+    .services_provider_content .lower_portion p {
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 10px;
+    }
+    .lower_portion h4 {
+        padding: 0px;
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .lower_portion p {
+        padding-bottom: 10px;
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .learn_more_wrapper {
+        padding: 0px;
+    }
+    .learn_btn_yellow {
+        font-size: 12px;
+        line-height: 18px;
+        padding: 8px 20px;
+    }
+    .lower_portion_wrapper_residentialsolar {
+        padding: 20px 35px 30px;
+    }
+    .lower_portion .resi_solar {
+        padding: 0px 15px;
+    }
+    .learn_more_wrapper_resi_solar {
+        padding: 0;
+    }
+    .services_provide .shape {
+        top: -50px;
+        right: 5px;
+    }
+    .services_provide .shape img{
+        height: 40px;
+    }
+
+    .aboutus_image img {
+        width: 100%;
+    }
+    .about_us .yellow_box {
+        padding: 20px 20px 20px 20px;
+        left: 25%;
+        bottom: -60px;
+        width: 50%;
+    }
+    .about_us .yellow_box i {
+        font-size: 22px;
+        line-height: 22px;
+        padding: 0px 60px;
+    }
+    .yellow_box h4 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .aboutus_content {
+        padding: 80px 0px 30px;
+        text-align: center;
+    }
+    .aboutus_content h6 {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .aboutus_content h2 {
+        font-size: 24px;
+        line-height: 30px;
+        text-align: center !important;
+    }
+    .about_us .box {
+        padding: 15px 6px 15px;
+        margin-right: 10px;
+        width: 30%;
+    }
+    .about_us .box_oneth img {
+        width: 35px;
+    }
+    .aboutus_box_content {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .about_us .box_two img {
+        width: 48px;
+    }
+
+    .recent_projects h6 {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 0;
+    }
+    .recent_projects h2 {
+        padding: 0;
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .recent_projects .images_content_wrapper {
+        padding-bottom: 50px;
+    }
+    .projects_content_wrapper {
+        padding: 0 15px;
+        margin-top: -83px;
+    }
+    .projects_content_wrapper h4 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .project_paragraph {
+        font-size: 16px;
+        line-height: 16px;
+    }
+    .project_icon_wrapper {
+        margin-top: -30px;
+        margin-left: 295px;
+    }
+    .project_icon_wrapper i {
+        font-size: 18px;
+        line-height: 18px;
+        height: 32px;
+        text-align: center;
+    }
+    .project_icon_wrapper_hybrid {
+        margin-top: -25px;
+        margin-left: 280px;
+    }
+    .project_icon_wrapper_hybrid i {
+        font-size: 18px;
+        line-height: 18px;
+        height: 32px;
+        text-align: center;
+    }
+    .btn_wrapper_projects a {
+        margin-left: 0;
+    }
+    .btn_wrapper_projects {
+        text-align: center;
+        margin-top: 5px;
+    }
+    .recent_projects .shape {
+        top: -50px;
+        left: 5px;
+    }
+    .recent_projects .shape img {
+        height: 40px;
+    }
+    .appointment-content h6 {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .appointment-content h2 {
+        font-size: 24px;
+        line-height: 30px;
+        padding: 0;
+        margin-bottom: 10px;
+    }
+    .appoinment_phone_icon i {
+        margin-top: 3px;
+        font-size: 20px;
+        line-height: 20px;
+        margin-right: 3px;
+    }
+    .appoinment_phone_icon h3 {
+        font-size: 18px;
+        line-height: 18px;
+    }
+    .company_statistics {
+        padding: 60px 0 36px 0;
+    }
+    .company_stats_content h6 {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .company_stats_content h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .company_stats_paragraph {
+        font-size: 14px;
+        line-height: 22px;
+        padding-right: 0px;
+    }
+    .company_statistics .company_stats_content .mb-4, .my-4 {
+        margin-bottom: 1.2rem!important;
+    }
+    .learn_btn_company_stats {
+        padding: 13px 25px;
+    }
+    .company_statistics .mb-4, .my-4 {
+        margin-bottom: 0rem!important;
+    }
+    .company_box_wrapper {
+        padding-bottom: 24px;
+        text-align: -webkit-center;
+    }
+    .company_box_wrapper .box img {
+        width: 25%;
+    }
+    .companystatsnumbers_content {
+        font-size: 24px;
+        line-height: 24px;
+    }
+    .company_statistics .shape {
+        top: -50px;
+        right: 5px;
+    }
+    .company_statistics .shape img{
+        height: 40px;
+    }
+    .company_box_wrapper .box figure {
+        margin: 0 0 10px;
+    }
+    .team_members h6 {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .team_members h2 {
+        margin-bottom: 20px;
+        padding-bottom: 0px;
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .team_members_content::after {
+        width: 75px;
+        left: 40%;
+        bottom: 25px;
+    }
+    .team_members_content .lower_portion_wrapper {
+        padding: 25px 0px 25px;
+    }
+    .team_members_content .lower_portion .team_member_name {
+        margin-bottom: 5px;
+        padding: 0;
+    }
+    .lower_portion .team_member_name {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .team_members_content .lower_portion .team_member_designation {
+        margin-bottom: 10px;
+        padding: 0;
+    }
+    .lower_portion .team_member_designation {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .team_members .shape {
+        top: -92px;
+        left: 5px;
+    }
+    .team_members .shape img {
+        height: 40px;
+    }
+    .testimonials_content {
+        width: auto;
+        margin: 0 15px;
+    }
+    .our_testimonials h6 {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .our_testimonials h2 {
+        padding: 0 25px;
+        margin-bottom: 20px;
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .testimonials_content .test_person_setting {
+        margin-top: -45px;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+    .testimonials_content .five_stars {
+        padding-bottom: 12px;
+    }
+    .testimonials_content .testimonial_member_name {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .testimonials_content .testimonial_paragraph {
+        font-size: 14px;
+        line-height: 22px;
+        padding: 10px 30px 30px;
+    }
+    .testimonials_content .apostrophy {
+        margin-top: 20px;
+        margin-left: -70px;
+        height: 30px;
+    }
+    .our_testimonials .owl-carousel .owl-nav button.owl-prev {
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        margin: 0 5px;
+    }
+    .our_testimonials .owl-carousel .owl-nav button.owl-prev span {
+        font-size: 38px;
+        line-height: 38px;
+    }
+    .our_testimonials .owl-carousel .owl-nav button.owl-next {
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        margin: 0px 5px;
+    }
+    .our_testimonials .owl-carousel .owl-nav button.owl-next span {
+        font-size: 38px;
+        line-height: 38px;
+    }
+    .our_testimonials .shape {
+        top: -10px;
+        right: 5px;
+    }
+    .our_testimonials .shape img{
+        height: 40px;
+    }
+
+    .our_articles h6 {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .our_articles h2 {
+        padding: 0;
+        margin-bottom: 20px;
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .articles_content .lower_portion h4 {
+        padding: 0;
+        margin-bottom: 12px;
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .articles_content .lower_portion p {
+        padding: 0;
+        margin-bottom: 20px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .articles_content .lower_portion_wrapper {
+        padding: 40px 12px 40px;
+    }
+    .articles_content .upper_portion .image_content {
+        padding: 0px 10px 0px;
+        width: 20%;
+        left: 0;
+        bottom: -25px;
+        right: 0;
+        margin: 0 auto;
+    }
+    .articles_content .upper_portion .image_content .month_name {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .articles_content .upper_portion .image_content .month_date {
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .article_learn_btn_yellow {
+        font-size: 12px;
+        line-height: 18px;
+        padding: 8px 20px;
+    }
+    .articles_content .learn_more_wrapper {
+        padding: 0px;
+    }
+    .articles_content::after {
+        width: 85px;
+        left: 40%;
+        bottom: 25px;
+    }
+    .our_articles .shape {
+        top: -50px;
+        left: 5px;
+    }
+    .our_articles .shape img {
+        height: 40px;
+    }
+
+    .send_message_content {
+        padding: 20px 10px;
+    }
+    .send_message_content h6 {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .send_message_content h2 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 10px;
+        padding: 0;
+    }
+    .send_message_content .upper_layer_name {
+        font-size: 12px;
+        line-height: 14px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: auto;
+    }
+    .send_message_content .upper_layer {
+        font-size: 12px;
+        line-height: 14px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: auto;
+    }
+    .send_message_content .lower_message {
+        font-size: 12px;
+        line-height: 14px;
+        padding-top: 25px;
+        padding-bottom: 70px;
+        padding-left: auto;
+    }
+    .send_message_content .form_button_wrapper {
+        padding-top: 0;
+        margin-top: 15px;
+    }
+    .send_message_content .form_button_wrapper .button_style {
+        padding: 12px 30px;
+    }
+    .footer-section {
+        margin-top: -50px;
+        text-align: center;
+        padding: 90px 0 0;
+    }
+    .middle-portion {
+        padding: 0;
+        margin-bottom: 30px;
+    }
+    .middle-portion .first_padding_left {
+        padding-bottom: 30px;
+    }
+    .middle-portion p {
+        margin-bottom: 10px;
+        padding: 0;
+        font-size: 20px;
+        line-height: 22px;
+    }
+    .middle-portion li .about_paragraph {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .middle-portion .first_padding_left ul .icons {
+        width: 35px;
+        font-size: 14px;
+        line-height: 14px;
+        height: 35px;
+        text-align: center;
+    }
+    .middle-portion li a {
+        font-size: 15px;
+        line-height: 26px;
+    }
+    .middle-portion li .diff {
+        font-size: 14px;
+    }
+    .middle-portion li .tel_num {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .copyright {
+        padding: 8px 0;
+    }
+    .copyright p {
+        font-size: 12px;
+    }
+    .footer_logo img {
+        height: 90px;
+    }
+    .sub-banner-section {
+        height: 650px;
+    }
+    .sub-banner-section .left_icons {
+        height: 325px;
+        margin-left: -30px;
+    }
+    .sub-banner-section .banner-section {
+        padding: 60px 0;
+    }
+    .sub-banner-section .banner-section h5 {
+        padding-right: 0px;
+    }
+    .about_header_learn_btn {
+        font-size: 12px;
+        line-height: 12px;
+        padding: 14px 18px;
+    }
+    .about-us-section {
+        margin-top: -235px;
+        padding-bottom: 60px;
+    }
+    .about-us-section h6 {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .about-us-section h2 {
+        padding: 0 0px;
+        margin: 0 0 10px;
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .about-us-section figure.mb-0 {
+        margin-bottom: 10px !important;
+    }
+    .aboutus_section_btn {
+        padding: 13px 25px;
+    }
+    .about-us-section .shape {
+        top: -50px;
+        left: 5px;
+    }
+    .about-us-section .shape img {
+        height: 40px;
+    }
+    .road-map {
+        padding: 60px 0;
+    }
+    .road-map h6 {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .road-map h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .road-map .roadmap_box_wrapper .box-outer span {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .road-map .roadmap_box_wrapper .box-outer i {
+        font-size: 20px;
+        line-height: 18px;
+    }
+    .roadmap_box_wrapper .box {
+        padding: 20px;
+        width: 80%;
+        margin-left: 40px;
+    }
+    .roadmap_box_wrapper .roadmap_box_heading {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .road-map .owl-carousel .owl-nav {
+        margin-top: 20px;
+    }
+    .revius_are .background_image {
+        height: 380px;
+    }
+    .revius_are .background_image .yellow_box {
+        width: 38%;
+        padding: 20px 15px;
+        left: 45%;
+        bottom: 5%;
+    }
+    .revius_are .background_content h6 {
+        font-size: 14px;
+        line-height: 24px;
+        text-align: center;
+    }
+    .revius_are .background_content h2 {
+        font-size: 24px;
+        line-height: 30px;
+        text-align: center !important;
+    }
+    .services_navbar-section {
+        height: 860px;
+        overflow: hidden;
+    }
+    .services_navbar-section .left_icons {
+        height: 325px;
+        margin-left: -30px;
+    }
+    .services_navbar-section .banner-section {
+        padding: 60px 0;
+    }
+    .services_navbar-section .banner-section h5 {
+        padding-right: 0px;
+        margin-bottom: 40px;
+    }
+    .services_header_learn_btn {
+        font-size: 18px;
+        line-height: 18px;
+        padding: 20px 20px;
+    }
+    .services_header_learn_btn:hover {
+        font-size: 18px;
+        line-height: 18px;
+        padding: 20px 20px;
+    }
+
+    .services_provide-section {
+        margin-top: -235px;
+    }
+    .services_provide-section h6 {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .services_provide-section h2 {
+        padding: 0 0px;
+        margin: 0 0 20px;
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .services_provide-section .services_provider_content{
+        margin-left: 0;
+    }
+    .services_provide-section .services_provider_content .lower_portion_wrapper {
+        padding: 25px 30px;
+    }
+    .services_provide-section .services_provider_content .lower_portion img {
+        height: 60px;
+    }
+    .services_provide-section .services_provider_content::after {
+        width: 60px;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+    }
+    .services_provide-section .shape {
+        top: -50px;
+        right: 5px;
+    }
+    .services_provide-section .shape img {
+        height: 40px;
+    }
+
+    .solar_power-section {
+        padding: 60px 0;
+        overflow: hidden;
+    }
+    .solar_power-section .solar_power_image {
+        height: 250px;
+    }
+    .solar_power-section .background_content {
+        padding: 30px 14px;
+    }
+    .solar_power-section .background_content h2 {
+        margin-bottom: 10px;
+        font-size: 24px;
+        line-height: 30px;
+        text-align: center !important;
+    }
+    .solar_power-section .background_content ul {
+        margin-bottom: 15px;
+    }
+    .solar_power-section .background_content ul li {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .solar_power-section .background_content ul li .fa {
+        padding: 2px;
+        font-size: 10px;
+        line-height: 10px;
+    }
+    .solar_power-section .shape {
+        top: -50px;
+        left: 5px;
+    }
+    .solar_power-section .shape img {
+        height: 40px;
+    }
+
+    .wind_power-section {
+        padding: 60px 0;
+        overflow: hidden;
+    }
+    .wind_power-section .wind_power_image {
+        height: 250px;
+    }
+    .wind_power-section .background_content {
+        padding: 30px 14px ;
+    }
+    .wind_power-section .background_content h2 {
+        margin-bottom: 10px;
+        font-size: 24px;
+        line-height: 30px;
+        text-align: center !important;
+    }
+    .wind_power-section .background_content ul {
+        margin-bottom: 15px;
+    }
+    .wind_power-section .background_content ul li {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .wind_power-section .background_content ul li .fa {
+        padding: 2px;
+        font-size: 10px;
+        line-height: 10px;
+    }
+    .wind_power-section .shape {
+        top: -50px;
+        right: 5px;
+    }
+    .wind_power-section .shape img{
+        height: 40px;
+    }
+
+    .residential_solar-section {
+        padding: 60px 0;
+        overflow: hidden;
+    }
+    .residential_solar-section .residential_solar_image {
+        height: 250px;
+    }
+    .residential_solar-section .background_content {
+        padding: 30px 14px;
+    }
+    .residential_solar-section .background_content h2 {
+        margin-bottom: 10px;
+        font-size: 24px;
+        line-height: 30px;
+        text-align: center !important;
+    }
+    .residential_solar-section .background_content ul {
+        margin-bottom: 15px;
+    }
+    .residential_solar-section .background_content ul li {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .residential_solar-section .background_content ul li .fa {
+        padding: 2px;
+        font-size: 10px;
+        line-height: 10px;
+    }
+    .residential_solar-section .shape {
+        top: -50px;
+        left: 5px;
+    }
+    .residential_solar-section .shape img{
+        height: 40px;
+    }
+    .our_articles .shape2 {
+        top: -50px;
+        right: 5px;
+    }
+    .our_articles .shape2 img {
+        height: 40px;
+    }
+
+    .projects_navbar-section {
+        height: 860px;
+        overflow: hidden;
+    }
+    .projects_navbar-section .left_icons {
+        height: 325px;
+        margin-left: -30px;
+    }
+    .projects_navbar-section .banner-section {
+        padding: 80px 0;
+    }
+    .projects_navbar-section .banner-section h5 {
+        padding-right: 0px;
+        margin-bottom: 40px;
+    }
+    .projects_header_learn_btn {
+        font-size: 18px;
+        line-height: 18px;
+        padding: 20px 20px;
+    }
+    .projects_header_learn_btn:hover {
+        font-size: 18px;
+        line-height: 18px;
+        padding: 20px 20px;
+    }
+
+    .project_page_recent_projects-section {
+        margin-top: -235px;
+    }
+    .project_page_recent_projects-section h6 {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .project_page_recent_projects-section h2 {
+        padding: 0 0px;
+        margin: 0 0 10px;
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .project_page_recent_projects-section .nav-tabs {
+        padding: 0px 0px;
+    }
+    .project_page_recent_projects-section .nav-tabs li {
+        padding: 4px;
+    }
+    .project_page_recent_projects-section .tabs-box .nav-tabs li a {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .project_page_recent_projects-section .images_content_wrapper {
+        padding-bottom: 60px;
+    }
+    .project_page_recent_projects-section .projects_content_wrapper {
+        padding: 0 10px;
+    }
+    .projects_content_wrapper h4 {
+        font-size: 16px;
+        line-height: 16px;
+    }
+    .project_page_recent_projects-section .project_paragraph {
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .project_page_recent_projects-section .project_icon_wrapper {
+        margin-top: -20px;
+        margin-left: 240px;
+    }
+    .project_page_recent_projects-section .project_icon_wrapper i {
+        padding: 6px 10px;
+        font-size: 14px;
+        line-height: 14px;
+        height: 28px;
+    }
+    .project_page_recent_projects-section .project_icon_wrapper_hybrid {
+        margin-top: -25px;
+        margin-left: 229px;
+    }
+    .project_page_recent_projects-section .project_icon_wrapper_hybrid i {
+        padding: 6px 10px;
+        font-size: 14px;
+        line-height: 14px;
+        height: 28px;
+    }
+    .project_page_recent_projects-section .shape {
+        display: none;
+    }
+    .project_page_recent_projects-section .shape img {
+        height: 40px;
+    }
+
+    .teams_navbar-section {
+        height: 860px;
+        overflow: hidden;
+    }
+    .teams_navbar-section .left_icons {
+        height: 325px;
+        margin-left: -30px;
+    }
+    .teams_navbar-section .banner-section {
+        padding: 60px 0;
+    }
+    .teams_navbar-section .banner-section h5 {
+        padding-right: 0px;
+        margin-bottom: 40px;
+    }
+    .team_header_learn_btn {
+        font-size: 18px;
+        line-height: 18px;
+        padding: 20px 20px;
+    }
+    .team_header_learn_btn:hover {
+        font-size: 18px;
+        line-height: 18px;
+        padding: 20px 20px;
+    }
+
+    .our_team-section {
+        margin-top: -235px;
+        overflow: hidden;
+    }
+    .our_team-section .padding_bottom {
+        padding-bottom: 0px;
+    }
+    .our_team-section h6 {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .our_team-section h2 {
+        padding: 0 0px;
+        margin: 0 0 20px;
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .our_team-section .team_members_content::after {
+        width: 70px;
+        left: 40%;
+        bottom: 0px;
+    }
+    .our_team-section .shape {
+        top: -90px;
+        right: 5px;
+    }
+    .our_team-section .shape img{
+        height: 40px;
+    }
+    .our_testimonials .shape2 {
+        top: -20px;
+        left: 5px;
+    }
+    .our_testimonials .shape2 img {
+        height: 40px;
+    }
+
+    .contacts_navbar-section {
+        height: 860px;
+        overflow: hidden;
+    }
+    .contacts_navbar-section .left_icons {
+        height: 325px;
+        margin-left: -30px;
+    }
+    .contacts_navbar-section .banner-section {
+        padding: 60px 0;
+    }
+    .contacts_navbar-section .banner-section h5 {
+        padding-right: 0px;
+        margin-bottom: 40px;
+    }
+    .contacts_header_learn_btn {
+        font-size: 18px;
+        line-height: 18px;
+        padding: 20px 20px;
+    }
+    .contacts_header_learn_btn:hover {
+        font-size: 18px;
+        line-height: 18px;
+        padding: 20px 20px;
+    }
+    .contact_info-section {
+        margin-top: -235px;
+        overflow: hidden;
+    }
+    .contact_info-section h6 {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .contact_info-section h2 {
+        padding: 0 0px;
+        margin: 0 0 20px;
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .contact_info-section .services_provider_content{
+        margin-left: 0;
+    }
+    .contact_info-section .services_provider_content .lower_portion_wrapper {
+        padding: 30px 45px;
+    }
+    .contact_info-section .services_provider_content .lower_portion_wrapper2 {
+        padding: 40px 90px 40px;
+    }
+    .contact_info-section .services_provider_content::after {
+        bottom: 25px;
+        left: 40%;
+    }
+    .contacts_map iframe {
+        height: 250px;
+    }
+    .faq_navbar-section {
+        height: 860px;
+        overflow: hidden;
+    }
+    .faq_navbar-section .left_icons {
+        height: 325px;
+        margin-left: -30px;
+    }
+    .faq_navbar-section .banner-section {
+        padding: 60px 0;
+    }
+    .faq_navbar-section .banner-section h5 {
+        padding-right: 0px;
+        margin-bottom: 40px;
+    }
+    .faq_header_learn_btn {
+        font-size: 18px;
+        line-height: 18px;
+        padding: 20px 20px;
+    }
+    .faq_header_learn_btn:hover {
+        font-size: 18px;
+        line-height: 18px;
+        padding: 20px 20px;
+    }
+    .accordian-section {
+        margin-top: -235px;
+        overflow: hidden;
+    }
+    .accordian-section h6 {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .accordian-section h2 {
+        padding: 0 0px;
+        margin: 0 0 10px;
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .accordian-section .accordian-inner .accordion-card {
+        margin-bottom: 20px;
+    }
+    .accordian-section .accordian-inner .accordion-card .btn {
+        padding: 15px 35px 15px 15px;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .accordian-section .accordion-card .btn-link:before {
+        right: 5px;
+        top: 10px;
+        font-size: 14px;
+        line-height: 14px;
+        padding: 8px 8px;
+    }
+    .accordian-section .accordian-inner .card-body {
+        padding: 5px 35px 15px 15px;
+    }
+    .accordian-section .accordian-inner .card-body p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .accordian-section .accordian-inner .accordion-card:last-child {
+        margin-bottom: 20px !important;
+    }
+
+    .modal-dialog {
+        max-width: 85%;
+    }
+    .modal-header button {
+        right: 3px;
+        top: 0px;
+        width: 38px;
+        height: 38px;
+    }
+    .modal-header button i {
+        font-size: 12px;
+        line-height: 18px;
+        padding: 8px 8px;
+    }
+    .modal-header .close {
+        width: 20px;
+        height: 20px;
+    }
+    .blog-content {
+        padding: 20px 27px 10px;
+    }
+    .blog-auteher-title {
+        margin-bottom: 35px;
+    }
+    .blog-auteher-title span {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .blog-auteher-title span:last-child {
+        float: right;
+    }
+    .footer-social-icon ul {
+        margin-top: 0;
+        margin-bottom: 1rem;
+        padding-left: 0px;
+    }
+    .blog-model-con p {
+        margin-bottom: 20px !important;
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .comment-title {
+        padding-top: 20px;
+        font-size: 14px;
+        line-height: 14px;
+        margin-bottom: 5px !important;
+    }
+    .comment-title2 {
+        font-size: 20px;
+        line-height: 24px;
+        margin-bottom: 15px;
+        padding-bottom: 0;
+    }
+    .blog-model-form textarea {
+        height: 100px;
+        margin-bottom: 10px;
+    }
+    .blog-model-form button {
+        padding: 12px 25px;
+        font-size: 12px;
+        line-height: 12px;
+    }
+}
